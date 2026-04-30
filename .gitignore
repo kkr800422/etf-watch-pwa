@@ -1,0 +1,16 @@
+```text
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local state snapshots
+last_holdings.json
+
+# Local investigation artifacts
+temp_data.html
+cathay_rendered.html
+cathay_rendered_uc.html
+```
