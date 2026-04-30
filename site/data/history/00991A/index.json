@@ -1,0 +1,13 @@
+{
+  "fund": {
+    "id": "00991A",
+    "name": "復華台灣未來50",
+    "fund_code": "ETF23",
+    "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
+    "source": "FH API"
+  },
+  "available_months": [
+    "2026-04"
+  ],
+  "latest_snapshot_date": "2026-04-30"
+}

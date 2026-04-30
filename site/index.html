@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#55604c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="ETF Watch">
+  <title>ETF Watch</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/icon.svg">
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <main class="page-shell">
+    <header class="topbar">
+      <div class="topbar__label">ETF WATCH / STATIC PWA</div>
+      <div class="topbar__value" id="generatedAtLabel">載入中</div>
+    </header>
+
+    <section class="hero-panel">
+      <div class="hero-panel__head">
+        <div>
+          <h1 class="hero-panel__title">ETF Watch</h1>
+          <p class="hero-panel__subtitle">靜態查詢、歷史紀錄、PWA 主畫面</p>
+        </div>
+        <div class="hero-chip" id="hostingBadge">Cloud CDN</div>
+      </div>
+      <div class="hero-stats" id="summaryStats">
+        <div class="hero-stat">
+          <div class="hero-stat__label">ETF</div>
+          <div class="hero-stat__value">-</div>
+        </div>
+        <div class="hero-stat">
+          <div class="hero-stat__label">異動</div>
+          <div class="hero-stat__value">-</div>
+        </div>
+        <div class="hero-stat">
+          <div class="hero-stat__label">最近快照</div>
+          <div class="hero-stat__value">-</div>
+        </div>
+        <div class="hero-stat">
+          <div class="hero-stat__label">通知</div>
+          <div class="hero-stat__value">TG</div>
+        </div>
+      </div>
+      <div class="quick-actions">
+        <a class="quick-actions__item" href="#fundGrid">ETF 摘要</a>
+        <a class="quick-actions__item" href="#moverSection">最新異動</a>
+        <a class="quick-actions__item" href="./history.html">歷史查詢</a>
+        <a class="quick-actions__item" href="#installSection">加入主畫面</a>
+      </div>
+    </section>
+
+    <section class="content-section" id="fundSection">
+      <div class="section-head">
+        <h2 class="section-head__title">ETF 摘要</h2>
+        <div class="section-head__meta" id="fundSectionMeta">最新狀態</div>
+      </div>
+      <div class="fund-grid" id="fundGrid"></div>
+    </section>
+
+    <div class="two-column-layout">
+      <section class="content-section" id="moverSection">
+        <div class="section-head">
+          <h2 class="section-head__title">最新異動</h2>
+          <div class="section-head__meta">依最近快照彙整</div>
+        </div>
+        <div class="data-card">
+          <div class="stack-list" id="moverList"></div>
+        </div>
+      </section>
+
+      <section class="content-section" id="installSection">
+        <div class="section-head">
+          <h2 class="section-head__title">通知與安裝</h2>
+          <div class="section-head__meta">PWA / TG</div>
+        </div>
+        <div class="data-card compact-card">
+          <div class="note-grid">
+            <div class="note-box">
+              <div class="note-box__label">Telegram</div>
+              <div class="note-box__value">主通知通道</div>
+            </div>
+            <div class="note-box">
+              <div class="note-box__label">Web Push</div>
+              <div class="note-box__value">下一階段</div>
+            </div>
+            <div class="note-box wide">
+              <div class="note-box__label">iPhone 安裝</div>
+              <div class="note-box__value">Safari 開啟後，點分享再選「加入主畫面」</div>
+            </div>
+          </div>
+          <button class="soft-button" id="installButton" type="button">此裝置不支援直接安裝提示</button>
+        </div>
+      </section>
+    </div>
+
+    <section class="content-section">
+      <div class="section-head">
+        <h2 class="section-head__title">上位持股</h2>
+        <div class="section-head__meta">由各 ETF 最新快照合併</div>
+      </div>
+      <div class="data-card data-card--table">
+        <div class="dense-table dense-table--header">
+          <div>ETF</div>
+          <div>個股</div>
+          <div class="align-right">權重</div>
+          <div class="align-right">張數</div>
+          <div class="align-right">排名</div>
+        </div>
+        <div id="topHoldingTable"></div>
+      </div>
+    </section>
+
+    <nav class="bottom-nav" aria-label="Bottom navigation">
+      <a class="bottom-nav__item bottom-nav__item--active" href="./index.html">首頁</a>
+      <a class="bottom-nav__item" href="./history.html">歷史</a>
+      <a class="bottom-nav__item" href="#installSection">通知</a>
+      <a class="bottom-nav__item" href="#fundSection">ETF</a>
+    </nav>
+  </main>
+
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>

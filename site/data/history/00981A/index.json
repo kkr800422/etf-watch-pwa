@@ -1,0 +1,13 @@
+{
+  "fund": {
+    "id": "00981A",
+    "name": "統一台股增長",
+    "fund_code": "49YTW",
+    "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
+    "source": "EZMoney"
+  },
+  "available_months": [
+    "2026-04"
+  ],
+  "latest_snapshot_date": "2026-04-30"
+}

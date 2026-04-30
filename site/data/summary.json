@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-04-30T01:24:24.785061+08:00",
+  "latest_snapshot_date": "2026-04-30",
+  "fund_count": 3,
+  "alert_count": 0,
+  "cards": [
+    {
+      "fund": {
+        "id": "00981A",
+        "name": "統一台股增長",
+        "fund_code": "49YTW",
+        "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
+        "source": "EZMoney"
+      },
+      "snapshot_date": "2026-04-30",
+      "holdings_count": 53,
+      "summary": {
+        "added": 0,
+        "removed": 0,
+        "increased": 0,
+        "decreased": 0
+      },
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 6556000.0,
+          "weight": "8.670%",
+          "weight_value": 8.67,
+          "rank": 1
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 3012000.0,
+          "weight": "7.460%",
+          "weight_value": 7.46,
+          "rank": 2
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 5103000.0,
+          "weight": "6.120%",
+          "weight_value": 6.12,
+          "rank": 3
+        }
+      ],
+      "top_movers": []
+    },
+    {
+      "fund": {
+        "id": "00400A",
+        "name": "國泰台股動能高息",
+        "fund_code": "00400A.TW",
+        "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
+        "source": "MoneyDJ"
+      },
+      "snapshot_date": "2026-04-30",
+      "holdings_count": 56,
+      "summary": {
+        "added": 0,
+        "removed": 0,
+        "increased": 0,
+        "decreased": 0
+      },
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 436000.0,
+          "weight": "6.990%",
+          "weight_value": 6.99,
+          "rank": 1
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 312000.0,
+          "weight": "4.530%",
+          "weight_value": 4.53,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 151000.0,
+          "weight": "4.530%",
+          "weight_value": 4.53,
+          "rank": 3
+        }
+      ],
+      "top_movers": []
+    },
+    {
+      "fund": {
+        "id": "00991A",
+        "name": "復華台灣未來50",
+        "fund_code": "ETF23",
+        "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
+        "source": "FH API"
+      },
+      "snapshot_date": "2026-04-30",
+      "holdings_count": 50,
+      "summary": {
+        "added": 0,
+        "removed": 0,
+        "increased": 0,
+        "decreased": 0
+      },
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台灣積體",
+          "shares": 2500000.0,
+          "weight": "16.567%",
+          "weight_value": 16.567,
+          "rank": 1
+        },
+        {
+          "code": "2383",
+          "name": "台光電子",
+          "shares": 780000.0,
+          "weight": "9.676%",
+          "weight_value": 9.676,
+          "rank": 2
+        },
+        {
+          "code": "2308",
+          "name": "台達電子",
+          "shares": 1130000.0,
+          "weight": "6.787%",
+          "weight_value": 6.787,
+          "rank": 3
+        }
+      ],
+      "top_movers": []
+    }
+  ],
+  "top_movers": []
+}

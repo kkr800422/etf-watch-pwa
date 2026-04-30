@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#55604c">
+  <title>ETF Watch 歷史查詢</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <main class="page-shell">
+    <header class="topbar">
+      <div class="topbar__label">ETF WATCH / HISTORY</div>
+      <a class="topbar__link" href="./index.html">返回首頁</a>
+    </header>
+
+    <section class="hero-panel hero-panel--compact">
+      <div class="hero-panel__head">
+        <div>
+          <h1 class="hero-panel__title">歷史查詢</h1>
+          <p class="hero-panel__subtitle">依 ETF、股票與異動型態過濾歷史紀錄</p>
+        </div>
+        <div class="hero-chip" id="historyCount">0 筆</div>
+      </div>
+      <div class="filter-grid">
+        <label class="filter-box">
+          <span class="filter-box__label">ETF</span>
+          <select id="etfFilter" class="filter-box__control">
+            <option value="all">全部</option>
+          </select>
+        </label>
+        <label class="filter-box">
+          <span class="filter-box__label">異動類型</span>
+          <select id="changeTypeFilter" class="filter-box__control">
+            <option value="all">全部</option>
+            <option value="snapshot">快照</option>
+            <option value="added">新增</option>
+            <option value="removed">移除</option>
+            <option value="increased">加碼</option>
+            <option value="decreased">減碼</option>
+          </select>
+        </label>
+        <label class="filter-box filter-box--wide">
+          <span class="filter-box__label">股票代碼 / 名稱</span>
+          <input id="keywordFilter" class="filter-box__control" type="search" placeholder="例如 2330 或 台積電">
+        </label>
+      </div>
+    </section>
+
+    <section class="content-section">
+      <div class="section-head">
+        <h2 class="section-head__title">查詢結果</h2>
+        <div class="section-head__meta" id="historyMeta">依日期新到舊排序</div>
+      </div>
+      <div class="data-card data-card--table">
+        <div class="dense-table dense-table--header history-table">
+          <div>日期</div>
+          <div>ETF</div>
+          <div>個股</div>
+          <div class="align-right">權重</div>
+          <div class="align-right">張數差</div>
+          <div class="align-right">型態</div>
+        </div>
+        <div id="historyTable"></div>
+      </div>
+    </section>
+
+    <nav class="bottom-nav" aria-label="Bottom navigation">
+      <a class="bottom-nav__item" href="./index.html">首頁</a>
+      <a class="bottom-nav__item bottom-nav__item--active" href="./history.html">歷史</a>
+      <a class="bottom-nav__item" href="./index.html#installSection">通知</a>
+      <a class="bottom-nav__item" href="./index.html#fundSection">ETF</a>
+    </nav>
+  </main>
+
+  <script src="./assets/history.js" defer></script>
+</body>
+</html>

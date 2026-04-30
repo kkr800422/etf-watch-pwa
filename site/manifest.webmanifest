@@ -1,0 +1,18 @@
+{
+  "name": "ETF Watch",
+  "short_name": "ETF Watch",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#55604c",
+  "description": "ETF 持股異動查詢與歷史紀錄 PWA。",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

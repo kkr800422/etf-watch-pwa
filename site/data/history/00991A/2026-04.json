@@ -1,0 +1,98 @@
+{
+  "fund": {
+    "id": "00991A",
+    "name": "復華台灣未來50",
+    "fund_code": "ETF23",
+    "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
+    "source": "FH API"
+  },
+  "month": "2026-04",
+  "snapshots": [
+    {
+      "snapshot_date": "2026-04-30",
+      "holdings_count": 50,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台灣積體",
+          "shares": 2500000.0,
+          "weight": "16.567%",
+          "weight_value": 16.567,
+          "rank": 1
+        },
+        {
+          "code": "2383",
+          "name": "台光電子",
+          "shares": 780000.0,
+          "weight": "9.676%",
+          "weight_value": 9.676,
+          "rank": 2
+        },
+        {
+          "code": "2308",
+          "name": "台達電子",
+          "shares": 1130000.0,
+          "weight": "6.787%",
+          "weight_value": 6.787,
+          "rank": 3
+        },
+        {
+          "code": "3037",
+          "name": "欣興電子",
+          "shares": 3200000.0,
+          "weight": "6.717%",
+          "weight_value": 6.717,
+          "rank": 4
+        },
+        {
+          "code": "8299",
+          "name": "群聯電子",
+          "shares": 1300000.0,
+          "weight": "6.663%",
+          "weight_value": 6.663,
+          "rank": 5
+        },
+        {
+          "code": "2345",
+          "name": "智邦科技",
+          "shares": 700000.0,
+          "weight": "4.730%",
+          "weight_value": 4.73,
+          "rank": 6
+        },
+        {
+          "code": "6223",
+          "name": "旺矽科技",
+          "shares": 270000.0,
+          "weight": "4.579%",
+          "weight_value": 4.579,
+          "rank": 7
+        },
+        {
+          "code": "5274",
+          "name": "信驊科技",
+          "shares": 100000.0,
+          "weight": "4.506%",
+          "weight_value": 4.506,
+          "rank": 8
+        },
+        {
+          "code": "7769",
+          "name": "鴻勁精密",
+          "shares": 300000.0,
+          "weight": "4.407%",
+          "weight_value": 4.407,
+          "rank": 9
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐科技",
+          "shares": 550000.0,
+          "weight": "4.309%",
+          "weight_value": 4.309,
+          "rank": 10
+        }
+      ]
+    }
+  ]
+}

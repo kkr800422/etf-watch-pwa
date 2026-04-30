@@ -1,0 +1,13 @@
+{
+  "fund": {
+    "id": "00400A",
+    "name": "國泰台股動能高息",
+    "fund_code": "00400A.TW",
+    "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
+    "source": "MoneyDJ"
+  },
+  "available_months": [
+    "2026-04"
+  ],
+  "latest_snapshot_date": "2026-04-30"
+}
