@@ -1,0 +1,68 @@
+```yaml
+name: Update ETF Data And Deploy Site
+
+on:
+	workflow_dispatch:
+	schedule:
+		- cron: "15 1 * * *"
+
+permissions:
+	contents: write
+	pages: write
+	id-token: write
+
+concurrency:
+	group: etf-watch-pages
+	cancel-in-progress: false
+
+jobs:
+	build-and-deploy:
+		runs-on: ubuntu-latest
+
+		steps:
+			- name: Checkout repository
+				uses: actions/checkout@v4
+				with:
+					fetch-depth: 0
+
+			- name: Setup Python
+				uses: actions/setup-python@v5
+				with:
+					python-version: "3.13"
+
+			- name: Install dependencies
+				run: pip install -r requirements.txt
+
+			- name: Run ETF monitor
+				env:
+					TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+					TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+				run: python monitor_all.py
+
+			- name: Build static site data
+				run: python scripts/build_site_data.py
+
+			- name: Commit updated snapshots and site data
+				run: |
+					if [ -n "$(git status --porcelain)" ]; then
+						git config user.name "github-actions[bot]"
+						git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+						git add data site/data last_holdings_*.json
+						git commit -m "chore: update ETF snapshots"
+						git push
+					else
+						echo "No changes to commit"
+					fi
+
+			- name: Configure GitHub Pages
+				uses: actions/configure-pages@v5
+
+			- name: Upload Pages artifact
+				uses: actions/upload-pages-artifact@v3
+				with:
+					path: site
+
+			- name: Deploy to GitHub Pages
+				id: deployment
+				uses: actions/deploy-pages@v4
+```
