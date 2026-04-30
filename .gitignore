@@ -1,4 +1,3 @@
-```text
 .venv/
 .venv-1/
 __pycache__/
@@ -13,4 +12,4 @@ last_holdings.json
 temp_data.html
 cathay_rendered.html
 cathay_rendered_uc.html
-```
+
