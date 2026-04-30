@@ -10,86 +10,86 @@
   "snapshots": [
     {
       "snapshot_date": "2026-04-30",
-      "holdings_count": 56,
+      "holdings_count": 51,
       "top_holdings": [
         {
           "code": "2330",
           "name": "台積電",
-          "shares": 436000.0,
-          "weight": "6.990%",
-          "weight_value": 6.99,
+          "shares": 770000.0,
+          "weight": "8.760%",
+          "weight_value": 8.76,
           "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 517000.0,
+          "weight": "7.190%",
+          "weight_value": 7.19,
+          "rank": 2
         },
         {
           "code": "2308",
           "name": "台達電",
-          "shares": 312000.0,
-          "weight": "4.530%",
-          "weight_value": 4.53,
-          "rank": 2
+          "shares": 571000.0,
+          "weight": "6.580%",
+          "weight_value": 6.58,
+          "rank": 3
         },
         {
           "code": "2383",
           "name": "台光電",
-          "shares": 151000.0,
-          "weight": "4.530%",
-          "weight_value": 4.53,
-          "rank": 3
+          "shares": 253000.0,
+          "weight": "6.130%",
+          "weight_value": 6.13,
+          "rank": 4
         },
         {
           "code": "3037",
           "name": "欣興",
-          "shares": 708000.0,
-          "weight": "3.590%",
-          "weight_value": 3.59,
-          "rank": 4
-        },
-        {
-          "code": "2368",
-          "name": "金像電",
-          "shares": 385000.0,
-          "weight": "3.570%",
-          "weight_value": 3.57,
+          "shares": 1028000.0,
+          "weight": "4.840%",
+          "weight_value": 4.84,
           "rank": 5
-        },
-        {
-          "code": "3653",
-          "name": "健策",
-          "shares": 97000.0,
-          "weight": "3.500%",
-          "weight_value": 3.5,
-          "rank": 6
-        },
-        {
-          "code": "3017",
-          "name": "奇鋐",
-          "shares": 184000.0,
-          "weight": "3.490%",
-          "weight_value": 3.49,
-          "rank": 7
         },
         {
           "code": "2360",
           "name": "致茂",
-          "shares": 196000.0,
-          "weight": "3.490%",
-          "weight_value": 3.49,
+          "shares": 413000.0,
+          "weight": "4.660%",
+          "weight_value": 4.66,
+          "rank": 6
+        },
+        {
+          "code": "2368",
+          "name": "金像電",
+          "shares": 627000.0,
+          "weight": "4.640%",
+          "weight_value": 4.64,
+          "rank": 7
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "shares": 52000.0,
+          "weight": "4.560%",
+          "weight_value": 4.56,
           "rank": 8
         },
         {
-          "code": "3665",
-          "name": "貿聯-KY",
-          "shares": 165000.0,
-          "weight": "3.080%",
-          "weight_value": 3.08,
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 293000.0,
+          "weight": "4.420%",
+          "weight_value": 4.42,
           "rank": 9
         },
         {
-          "code": "2345",
-          "name": "智邦",
-          "shares": 187000.0,
-          "weight": "3.060%",
-          "weight_value": 3.06,
+          "code": "3653",
+          "name": "健策",
+          "shares": 111000.0,
+          "weight": "3.180%",
+          "weight_value": 3.18,
           "rank": 10
         }
       ]

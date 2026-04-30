@@ -15,81 +15,81 @@
         {
           "code": "2330",
           "name": "台灣積體",
-          "shares": 2500000.0,
-          "weight": "16.567%",
-          "weight_value": 16.567,
+          "shares": 3600000.0,
+          "weight": "20.340%",
+          "weight_value": 20.34,
           "rank": 1
         },
         {
           "code": "2383",
           "name": "台光電子",
-          "shares": 780000.0,
-          "weight": "9.676%",
-          "weight_value": 9.676,
+          "shares": 765000.0,
+          "weight": "9.201%",
+          "weight_value": 9.201,
           "rank": 2
-        },
-        {
-          "code": "2308",
-          "name": "台達電子",
-          "shares": 1130000.0,
-          "weight": "6.787%",
-          "weight_value": 6.787,
-          "rank": 3
         },
         {
           "code": "3037",
           "name": "欣興電子",
           "shares": 3200000.0,
-          "weight": "6.717%",
-          "weight_value": 6.717,
-          "rank": 4
+          "weight": "7.478%",
+          "weight_value": 7.478,
+          "rank": 3
         },
         {
           "code": "8299",
           "name": "群聯電子",
           "shares": 1300000.0,
-          "weight": "6.663%",
-          "weight_value": 6.663,
+          "weight": "6.537%",
+          "weight_value": 6.537,
+          "rank": 4
+        },
+        {
+          "code": "2308",
+          "name": "台達電子",
+          "shares": 1020000.0,
+          "weight": "5.844%",
+          "weight_value": 5.844,
           "rank": 5
         },
         {
           "code": "2345",
           "name": "智邦科技",
-          "shares": 700000.0,
-          "weight": "4.730%",
-          "weight_value": 4.73,
+          "shares": 730000.0,
+          "weight": "4.405%",
+          "weight_value": 4.405,
           "rank": 6
         },
         {
-          "code": "6223",
-          "name": "旺矽科技",
-          "shares": 270000.0,
-          "weight": "4.579%",
-          "weight_value": 4.579,
+          "code": "8046",
+          "name": "南亞電路",
+          "shares": 1650000.0,
+          "weight": "4.388%",
+          "weight_value": 4.388,
           "rank": 7
         },
         {
           "code": "5274",
           "name": "信驊科技",
           "shares": 100000.0,
-          "weight": "4.506%",
-          "weight_value": 4.506,
+          "weight": "4.360%",
+          "weight_value": 4.36,
           "rank": 8
-        },
-        {
-          "code": "7769",
-          "name": "鴻勁精密",
-          "shares": 300000.0,
-          "weight": "4.407%",
-          "weight_value": 4.407,
-          "rank": 9
         },
         {
           "code": "3017",
           "name": "奇鋐科技",
-          "shares": 550000.0,
-          "weight": "4.309%",
-          "weight_value": 4.309,
+          "shares": 570000.0,
+          "weight": "4.276%",
+          "weight_value": 4.276,
+          "rank": 9
+        },
+        {
+          "code": "2368",
+          "name": "金像電子",
+          "shares": 1080000.0,
+          "weight": "3.973%",
+          "weight_value": 3.973,
           "rank": 10
         }
       ]

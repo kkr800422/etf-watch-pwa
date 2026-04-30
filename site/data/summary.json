@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T01:24:24.785061+08:00",
+  "generated_at": "2026-04-30T23:24:05.474840+08:00",
   "latest_snapshot_date": "2026-04-30",
   "fund_count": 3,
   "alert_count": 0,
@@ -13,7 +13,7 @@
         "source": "EZMoney"
       },
       "snapshot_date": "2026-04-30",
-      "holdings_count": 53,
+      "holdings_count": 50,
       "summary": {
         "added": 0,
         "removed": 0,
@@ -24,25 +24,25 @@
         {
           "code": "2330",
           "name": "台積電",
-          "shares": 6556000.0,
-          "weight": "8.670%",
-          "weight_value": 8.67,
+          "shares": 10039000.0,
+          "weight": "8.970%",
+          "weight_value": 8.97,
           "rank": 1
         },
         {
           "code": "2383",
           "name": "台光電",
-          "shares": 3012000.0,
-          "weight": "7.460%",
-          "weight_value": 7.46,
+          "shares": 4425000.0,
+          "weight": "8.420%",
+          "weight_value": 8.42,
           "rank": 2
         },
         {
-          "code": "2308",
-          "name": "台達電",
-          "shares": 5103000.0,
-          "weight": "6.120%",
-          "weight_value": 6.12,
+          "code": "2345",
+          "name": "智邦",
+          "shares": 6031000.0,
+          "weight": "5.750%",
+          "weight_value": 5.75,
           "rank": 3
         }
       ],
@@ -57,7 +57,7 @@
         "source": "MoneyDJ"
       },
       "snapshot_date": "2026-04-30",
-      "holdings_count": 56,
+      "holdings_count": 51,
       "summary": {
         "added": 0,
         "removed": 0,
@@ -68,25 +68,25 @@
         {
           "code": "2330",
           "name": "台積電",
-          "shares": 436000.0,
-          "weight": "6.990%",
-          "weight_value": 6.99,
+          "shares": 770000.0,
+          "weight": "8.760%",
+          "weight_value": 8.76,
           "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 517000.0,
+          "weight": "7.190%",
+          "weight_value": 7.19,
+          "rank": 2
         },
         {
           "code": "2308",
           "name": "台達電",
-          "shares": 312000.0,
-          "weight": "4.530%",
-          "weight_value": 4.53,
-          "rank": 2
-        },
-        {
-          "code": "2383",
-          "name": "台光電",
-          "shares": 151000.0,
-          "weight": "4.530%",
-          "weight_value": 4.53,
+          "shares": 571000.0,
+          "weight": "6.580%",
+          "weight_value": 6.58,
           "rank": 3
         }
       ],
@@ -112,25 +112,25 @@
         {
           "code": "2330",
           "name": "台灣積體",
-          "shares": 2500000.0,
-          "weight": "16.567%",
-          "weight_value": 16.567,
+          "shares": 3600000.0,
+          "weight": "20.340%",
+          "weight_value": 20.34,
           "rank": 1
         },
         {
           "code": "2383",
           "name": "台光電子",
-          "shares": 780000.0,
-          "weight": "9.676%",
-          "weight_value": 9.676,
+          "shares": 765000.0,
+          "weight": "9.201%",
+          "weight_value": 9.201,
           "rank": 2
         },
         {
-          "code": "2308",
-          "name": "台達電子",
-          "shares": 1130000.0,
-          "weight": "6.787%",
-          "weight_value": 6.787,
+          "code": "3037",
+          "name": "欣興電子",
+          "shares": 3200000.0,
+          "weight": "7.478%",
+          "weight_value": 7.478,
           "rank": 3
         }
       ],
