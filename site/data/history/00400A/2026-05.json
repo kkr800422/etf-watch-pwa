@@ -867,6 +867,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-05-11",
+      "holdings_count": 47,
+      "top_holdings": [
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 517000.0,
+          "weight": "8.900%",
+          "weight_value": 8.9,
+          "rank": 1
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 770000.0,
+          "weight": "8.360%",
+          "weight_value": 8.36,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 272000.0,
+          "weight": "6.130%",
+          "weight_value": 6.13,
+          "rank": 3
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 571000.0,
+          "weight": "5.960%",
+          "weight_value": 5.96,
+          "rank": 4
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 413000.0,
+          "weight": "4.370%",
+          "weight_value": 4.37,
+          "rank": 5
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "shares": 52000.0,
+          "weight": "4.180%",
+          "weight_value": 4.18,
+          "rank": 6
+        },
+        {
+          "code": "2368",
+          "name": "金像電",
+          "shares": 627000.0,
+          "weight": "3.960%",
+          "weight_value": 3.96,
+          "rank": 7
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 137000.0,
+          "weight": "3.460%",
+          "weight_value": 3.46,
+          "rank": 8
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "shares": 2526000.0,
+          "weight": "3.280%",
+          "weight_value": 3.28,
+          "rank": 9
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 767000.0,
+          "weight": "2.980%",
+          "weight_value": 2.98,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
