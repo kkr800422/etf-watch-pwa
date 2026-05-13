@@ -1039,6 +1039,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-05-13",
+      "holdings_count": 48,
+      "top_holdings": [
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 517000.0,
+          "weight": "8.790%",
+          "weight_value": 8.79,
+          "rank": 1
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 770000.0,
+          "weight": "7.980%",
+          "weight_value": 7.98,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 293000.0,
+          "weight": "6.590%",
+          "weight_value": 6.59,
+          "rank": 3
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 571000.0,
+          "weight": "5.760%",
+          "weight_value": 5.76,
+          "rank": 4
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 413000.0,
+          "weight": "4.630%",
+          "weight_value": 4.63,
+          "rank": 5
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "shares": 52000.0,
+          "weight": "4.300%",
+          "weight_value": 4.3,
+          "rank": 6
+        },
+        {
+          "code": "2368",
+          "name": "金像電",
+          "shares": 627000.0,
+          "weight": "4.000%",
+          "weight_value": 4.0,
+          "rank": 7
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "shares": 2526000.0,
+          "weight": "3.720%",
+          "weight_value": 3.72,
+          "rank": 8
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "shares": 284000.0,
+          "weight": "3.620%",
+          "weight_value": 3.62,
+          "rank": 9
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 137000.0,
+          "weight": "3.430%",
+          "weight_value": 3.43,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
