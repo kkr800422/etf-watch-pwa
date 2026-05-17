@@ -7,13 +7,13 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-05-16",
+    "snapshot_date": "2026-05-17",
     "holdings_count": 51,
     "summary": {
       "added": 0,
-      "removed": 1,
-      "increased": 1,
-      "decreased": 3
+      "removed": 0,
+      "increased": 0,
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -41,41 +41,7 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00981A",
-        "stock_code": "2303",
-        "stock_name": "聯電",
-        "weight": "2.400%",
-        "shares": 56167000.0,
-        "shares_diff": 9793000.0,
-        "diff_lots": 9793,
-        "change_rate": 21.12,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "3443",
-        "stock_name": "創意",
-        "weight": "0.200%",
-        "shares": 107000.0,
-        "shares_diff": -511000.0,
-        "diff_lots": -511,
-        "change_rate": -82.69,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "2357",
-        "stock_name": "華碩",
-        "weight": "0.420%",
-        "shares": 1703000.0,
-        "shares_diff": -293000.0,
-        "diff_lots": -293,
-        "change_rate": -14.68,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   },
   {
     "fund": {
@@ -85,7 +51,7 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-05-16",
+    "snapshot_date": "2026-05-17",
     "holdings_count": 51,
     "summary": {
       "added": 0,
@@ -129,13 +95,13 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-05-16",
+    "snapshot_date": "2026-05-17",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 9,
-      "decreased": 2
+      "increased": 0,
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -163,40 +129,6 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00991A",
-        "stock_code": "3189",
-        "stock_name": "景碩科技",
-        "weight": "1.852%",
-        "shares": 1750000.0,
-        "shares_diff": 500000.0,
-        "diff_lots": 500,
-        "change_rate": 40.0,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "2360",
-        "stock_name": "致茂電子",
-        "weight": "1.951%",
-        "shares": 400000.0,
-        "shares_diff": 399000.0,
-        "diff_lots": 399,
-        "change_rate": 39900.0,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "1590",
-        "stock_name": "亞德客-KY",
-        "weight": "0.003%",
-        "shares": 1000.0,
-        "shares_diff": -299000.0,
-        "diff_lots": -299,
-        "change_rate": -99.67,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   }
 ]
