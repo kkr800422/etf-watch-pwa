@@ -7,12 +7,12 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-05-18",
+    "snapshot_date": "2026-05-19",
     "holdings_count": 51,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 0,
+      "increased": 3,
       "decreased": 0
     },
     "top_holdings": [
@@ -20,16 +20,16 @@
         "code": "2330",
         "name": "台積電",
         "shares": 11657000.0,
-        "weight": "10.260%",
-        "weight_value": 10.26,
+        "weight": "10.200%",
+        "weight_value": 10.2,
         "rank": 1
       },
       {
         "code": "2383",
         "name": "台光電",
         "shares": 4723000.0,
-        "weight": "8.470%",
-        "weight_value": 8.47,
+        "weight": "8.380%",
+        "weight_value": 8.38,
         "rank": 2
       },
       {
@@ -41,7 +41,41 @@
         "rank": 3
       }
     ],
-    "top_movers": []
+    "top_movers": [
+      {
+        "fund_id": "00981A",
+        "stock_code": "2303",
+        "stock_name": "聯電",
+        "weight": "2.740%",
+        "shares": 63190000.0,
+        "shares_diff": 7023000.0,
+        "diff_lots": 7023,
+        "change_rate": 12.5,
+        "change_type": "increased"
+      },
+      {
+        "fund_id": "00981A",
+        "stock_code": "6278",
+        "stock_name": "台表科",
+        "weight": "0.310%",
+        "shares": 3734000.0,
+        "shares_diff": 1234000.0,
+        "diff_lots": 1234,
+        "change_rate": 49.36,
+        "change_type": "increased"
+      },
+      {
+        "fund_id": "00981A",
+        "stock_code": "6415",
+        "stock_name": "矽力*-KY",
+        "weight": "0.210%",
+        "shares": 1038000.0,
+        "shares_diff": 98000.0,
+        "diff_lots": 98,
+        "change_rate": 10.43,
+        "change_type": "increased"
+      }
+    ]
   },
   {
     "fund": {
@@ -51,41 +85,74 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-05-18",
-    "holdings_count": 51,
+    "snapshot_date": "2026-05-19",
+    "holdings_count": 49,
     "summary": {
-      "added": 0,
-      "removed": 0,
-      "increased": 0,
-      "decreased": 0
+      "added": 1,
+      "removed": 3,
+      "increased": 1,
+      "decreased": 3
     },
     "top_holdings": [
-      {
-        "code": "2330",
-        "name": "台積電",
-        "shares": 770000.0,
-        "weight": "8.540%",
-        "weight_value": 8.54,
-        "rank": 1
-      },
       {
         "code": "2454",
         "name": "聯發科",
         "shares": 517000.0,
-        "weight": "8.250%",
-        "weight_value": 8.25,
+        "weight": "8.710%",
+        "weight_value": 8.71,
+        "rank": 1
+      },
+      {
+        "code": "2330",
+        "name": "台積電",
+        "shares": 770000.0,
+        "weight": "8.550%",
+        "weight_value": 8.55,
         "rank": 2
       },
       {
         "code": "2383",
         "name": "台光電",
         "shares": 293000.0,
-        "weight": "6.620%",
-        "weight_value": 6.62,
+        "weight": "6.600%",
+        "weight_value": 6.6,
         "rank": 3
       }
     ],
-    "top_movers": []
+    "top_movers": [
+      {
+        "fund_id": "00400A",
+        "stock_code": "2408",
+        "stock_name": "南亞科",
+        "weight": "1.840%",
+        "shares": 1218000.0,
+        "shares_diff": -1308000.0,
+        "diff_lots": -1308,
+        "change_rate": -51.78,
+        "change_type": "decreased"
+      },
+      {
+        "fund_id": "00400A",
+        "stock_code": "2449",
+        "stock_name": "京元電子",
+        "weight": "1.110%",
+        "shares": 755000.0,
+        "change_type": "removed",
+        "shares_diff": -755000.0,
+        "diff_lots": -755
+      },
+      {
+        "fund_id": "00400A",
+        "stock_code": "3665",
+        "stock_name": "貿聯-KY",
+        "weight": "1.270%",
+        "shares": 127000.0,
+        "shares_diff": -157000.0,
+        "diff_lots": -157,
+        "change_rate": -55.28,
+        "change_type": "decreased"
+      }
+    ]
   },
   {
     "fund": {
@@ -95,12 +162,12 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-05-18",
+    "snapshot_date": "2026-05-19",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 0,
+      "increased": 5,
       "decreased": 0
     },
     "top_holdings": [
@@ -108,27 +175,61 @@
         "code": "2330",
         "name": "台灣積體",
         "shares": 3650000.0,
-        "weight": "18.000%",
-        "weight_value": 18.0,
+        "weight": "17.733%",
+        "weight_value": 17.733,
         "rank": 1
       },
       {
         "code": "8299",
         "name": "群聯電子",
         "shares": 1360000.0,
-        "weight": "7.847%",
-        "weight_value": 7.847,
+        "weight": "8.068%",
+        "weight_value": 8.068,
         "rank": 2
       },
       {
         "code": "2383",
         "name": "台光電子",
         "shares": 765000.0,
-        "weight": "7.687%",
-        "weight_value": 7.687,
+        "weight": "7.541%",
+        "weight_value": 7.541,
         "rank": 3
       }
     ],
-    "top_movers": []
+    "top_movers": [
+      {
+        "fund_id": "00991A",
+        "stock_code": "8210",
+        "stock_name": "勤誠興業",
+        "weight": "2.395%",
+        "shares": 800000.0,
+        "shares_diff": 180000.0,
+        "diff_lots": 180,
+        "change_rate": 29.03,
+        "change_type": "increased"
+      },
+      {
+        "fund_id": "00991A",
+        "stock_code": "2360",
+        "stock_name": "致茂電子",
+        "weight": "2.370%",
+        "shares": 500000.0,
+        "shares_diff": 100000.0,
+        "diff_lots": 100,
+        "change_rate": 25.0,
+        "change_type": "increased"
+      },
+      {
+        "fund_id": "00991A",
+        "stock_code": "6515",
+        "stock_name": "穎崴科技",
+        "weight": "2.998%",
+        "shares": 135000.0,
+        "shares_diff": 50000.0,
+        "diff_lots": 50,
+        "change_rate": 58.82,
+        "change_type": "increased"
+      }
+    ]
   }
 ]
