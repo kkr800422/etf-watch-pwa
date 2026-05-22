@@ -7,73 +7,72 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-05-21",
-    "holdings_count": 52,
+    "snapshot_date": "2026-05-22",
+    "holdings_count": 53,
     "summary": {
-      "added": 0,
+      "added": 1,
       "removed": 0,
       "increased": 2,
-      "decreased": 2
+      "decreased": 1
     },
     "top_holdings": [
       {
         "code": "2330",
         "name": "台積電",
         "shares": 11657000.0,
-        "weight": "10.280%",
-        "weight_value": 10.28,
+        "weight": "9.930%",
+        "weight_value": 9.93,
         "rank": 1
       },
       {
         "code": "2383",
         "name": "台光電",
         "shares": 4723000.0,
-        "weight": "8.380%",
-        "weight_value": 8.38,
+        "weight": "8.460%",
+        "weight_value": 8.46,
         "rank": 2
       },
       {
         "code": "2345",
         "name": "智邦",
         "shares": 6231000.0,
-        "weight": "5.920%",
-        "weight_value": 5.92,
+        "weight": "5.900%",
+        "weight_value": 5.9,
         "rank": 3
       }
     ],
     "top_movers": [
       {
         "fund_id": "00981A",
-        "stock_code": "6147",
-        "stock_name": "頎邦",
-        "weight": "0.280%",
-        "shares": 3201000.0,
-        "shares_diff": 3200000.0,
-        "diff_lots": 3200,
-        "change_rate": 320000.0,
+        "stock_code": "2357",
+        "stock_name": "華碩",
+        "weight": "0.070%",
+        "shares": 273000.0,
+        "shares_diff": -1349000.0,
+        "diff_lots": -1349,
+        "change_rate": -83.17,
+        "change_type": "decreased"
+      },
+      {
+        "fund_id": "00981A",
+        "stock_code": "6271",
+        "stock_name": "同欣電",
+        "weight": "0.050%",
+        "shares": 686000.0,
+        "change_type": "added",
+        "shares_diff": 686000.0,
+        "diff_lots": 686
+      },
+      {
+        "fund_id": "00981A",
+        "stock_code": "3533",
+        "stock_name": "嘉澤",
+        "weight": "0.740%",
+        "shares": 772000.0,
+        "shares_diff": 148000.0,
+        "diff_lots": 148,
+        "change_rate": 23.72,
         "change_type": "increased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "2481",
-        "stock_name": "強茂",
-        "weight": "0.110%",
-        "shares": 2056000.0,
-        "shares_diff": -1598000.0,
-        "diff_lots": -1598,
-        "change_rate": -43.73,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "3264",
-        "stock_name": "欣銓",
-        "weight": "0.520%",
-        "shares": 6217000.0,
-        "shares_diff": -1555000.0,
-        "diff_lots": -1555,
-        "change_rate": -20.01,
-        "change_type": "decreased"
       }
     ]
   },
@@ -85,64 +84,41 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-05-21",
+    "snapshot_date": "2026-05-22",
     "holdings_count": 49,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 1,
-      "decreased": 1
+      "increased": 0,
+      "decreased": 0
     },
     "top_holdings": [
-      {
-        "code": "2330",
-        "name": "台積電",
-        "shares": 770000.0,
-        "weight": "8.610%",
-        "weight_value": 8.61,
-        "rank": 1
-      },
       {
         "code": "2454",
         "name": "聯發科",
         "shares": 517000.0,
-        "weight": "8.550%",
-        "weight_value": 8.55,
+        "weight": "8.930%",
+        "weight_value": 8.93,
+        "rank": 1
+      },
+      {
+        "code": "2330",
+        "name": "台積電",
+        "shares": 770000.0,
+        "weight": "8.360%",
+        "weight_value": 8.36,
         "rank": 2
       },
       {
         "code": "2383",
         "name": "台光電",
         "shares": 293000.0,
-        "weight": "6.590%",
-        "weight_value": 6.59,
+        "weight": "6.690%",
+        "weight_value": 6.69,
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00400A",
-        "stock_code": "2368",
-        "stock_name": "金像電",
-        "weight": "2.420%",
-        "shares": 382000.0,
-        "shares_diff": -245000.0,
-        "diff_lots": -245,
-        "change_rate": -39.07,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00400A",
-        "stock_code": "2327",
-        "stock_name": "國巨*",
-        "weight": "1.760%",
-        "shares": 660000.0,
-        "shares_diff": 180000.0,
-        "diff_lots": 180,
-        "change_rate": 37.5,
-        "change_type": "increased"
-      }
-    ]
+    "top_movers": []
   },
   {
     "fund": {
@@ -152,52 +128,40 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-05-21",
+    "snapshot_date": "2026-05-22",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
       "increased": 0,
-      "decreased": 1
+      "decreased": 0
     },
     "top_holdings": [
       {
         "code": "2330",
         "name": "台灣積體",
         "shares": 3650000.0,
-        "weight": "17.850%",
-        "weight_value": 17.85,
+        "weight": "17.210%",
+        "weight_value": 17.21,
         "rank": 1
       },
       {
         "code": "2383",
         "name": "台光電子",
         "shares": 765000.0,
-        "weight": "7.525%",
-        "weight_value": 7.525,
+        "weight": "7.586%",
+        "weight_value": 7.586,
         "rank": 2
       },
       {
         "code": "8299",
         "name": "群聯電子",
         "shares": 1360000.0,
-        "weight": "6.895%",
-        "weight_value": 6.895,
+        "weight": "6.714%",
+        "weight_value": 6.714,
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00991A",
-        "stock_code": "2308",
-        "stock_name": "台達電子",
-        "weight": "3.643%",
-        "shares": 850000.0,
-        "shares_diff": -50000.0,
-        "diff_lots": -50,
-        "change_rate": -5.56,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   }
 ]
