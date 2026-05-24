@@ -7,7 +7,7 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-05-23",
+    "snapshot_date": "2026-05-24",
     "holdings_count": 53,
     "summary": {
       "added": 0,
@@ -51,12 +51,12 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-05-23",
+    "snapshot_date": "2026-05-24",
     "holdings_count": 48,
     "summary": {
       "added": 0,
-      "removed": 1,
-      "increased": 2,
+      "removed": 0,
+      "increased": 0,
       "decreased": 0
     },
     "top_holdings": [
@@ -85,40 +85,7 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00400A",
-        "stock_code": "2383",
-        "stock_name": "台光電",
-        "weight": "7.820%",
-        "shares": 332000.0,
-        "shares_diff": 39000.0,
-        "diff_lots": 39,
-        "change_rate": 13.31,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00400A",
-        "stock_code": "3081",
-        "stock_name": "聯亞",
-        "weight": "1.340%",
-        "shares": 105000.0,
-        "shares_diff": 36000.0,
-        "diff_lots": 36,
-        "change_rate": 52.17,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00400A",
-        "stock_code": "6683",
-        "stock_name": "雍智科技",
-        "weight": "0.200%",
-        "shares": 24000.0,
-        "change_type": "removed",
-        "shares_diff": -24000.0,
-        "diff_lots": -24
-      }
-    ]
+    "top_movers": []
   },
   {
     "fund": {
@@ -128,7 +95,7 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-05-23",
+    "snapshot_date": "2026-05-24",
     "holdings_count": 50,
     "summary": {
       "added": 0,
