@@ -7,41 +7,74 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-05-25",
-    "holdings_count": 53,
+    "snapshot_date": "2026-05-26",
+    "holdings_count": 52,
     "summary": {
       "added": 0,
-      "removed": 0,
-      "increased": 0,
-      "decreased": 0
+      "removed": 1,
+      "increased": 3,
+      "decreased": 2
     },
     "top_holdings": [
       {
         "code": "2330",
         "name": "台積電",
         "shares": 11657000.0,
-        "weight": "9.660%",
-        "weight_value": 9.66,
+        "weight": "9.440%",
+        "weight_value": 9.44,
         "rank": 1
       },
       {
         "code": "2383",
         "name": "台光電",
         "shares": 4723000.0,
-        "weight": "8.690%",
-        "weight_value": 8.69,
+        "weight": "9.120%",
+        "weight_value": 9.12,
         "rank": 2
       },
       {
         "code": "2454",
         "name": "聯發科",
         "shares": 4263000.0,
-        "weight": "6.050%",
-        "weight_value": 6.05,
+        "weight": "6.350%",
+        "weight_value": 6.35,
         "rank": 3
       }
     ],
-    "top_movers": []
+    "top_movers": [
+      {
+        "fund_id": "00981A",
+        "stock_code": "8046",
+        "stock_name": "南電",
+        "weight": "3.530%",
+        "shares": 11398000.0,
+        "shares_diff": -1260000.0,
+        "diff_lots": -1260,
+        "change_rate": -9.95,
+        "change_type": "decreased"
+      },
+      {
+        "fund_id": "00981A",
+        "stock_code": "3036",
+        "stock_name": "文曄",
+        "weight": "0.130%",
+        "shares": 1200000.0,
+        "change_type": "removed",
+        "shares_diff": -1200000.0,
+        "diff_lots": -1200
+      },
+      {
+        "fund_id": "00981A",
+        "stock_code": "2368",
+        "stock_name": "金像電",
+        "weight": "3.830%",
+        "shares": 7669000.0,
+        "shares_diff": 651000.0,
+        "diff_lots": 651,
+        "change_rate": 9.28,
+        "change_type": "increased"
+      }
+    ]
   },
   {
     "fund": {
@@ -51,7 +84,7 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-05-25",
+    "snapshot_date": "2026-05-26",
     "holdings_count": 48,
     "summary": {
       "added": 0,
@@ -64,24 +97,24 @@
         "code": "2454",
         "name": "聯發科",
         "shares": 517000.0,
-        "weight": "9.390%",
-        "weight_value": 9.39,
+        "weight": "9.880%",
+        "weight_value": 9.88,
         "rank": 1
-      },
-      {
-        "code": "2330",
-        "name": "台積電",
-        "shares": 770000.0,
-        "weight": "8.170%",
-        "weight_value": 8.17,
-        "rank": 2
       },
       {
         "code": "2383",
         "name": "台光電",
         "shares": 332000.0,
-        "weight": "7.820%",
-        "weight_value": 7.82,
+        "weight": "8.230%",
+        "weight_value": 8.23,
+        "rank": 2
+      },
+      {
+        "code": "2330",
+        "name": "台積電",
+        "shares": 770000.0,
+        "weight": "8.010%",
+        "weight_value": 8.01,
         "rank": 3
       }
     ],
@@ -95,7 +128,7 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-05-25",
+    "snapshot_date": "2026-05-26",
     "holdings_count": 50,
     "summary": {
       "added": 0,
@@ -108,24 +141,24 @@
         "code": "2330",
         "name": "台灣積體",
         "shares": 3650000.0,
-        "weight": "16.697%",
-        "weight_value": 16.697,
+        "weight": "16.431%",
+        "weight_value": 16.431,
         "rank": 1
       },
       {
         "code": "2383",
         "name": "台光電子",
         "shares": 765000.0,
-        "weight": "7.767%",
-        "weight_value": 7.767,
+        "weight": "8.207%",
+        "weight_value": 8.207,
         "rank": 2
       },
       {
-        "code": "8299",
-        "name": "群聯電子",
-        "shares": 1360000.0,
-        "weight": "6.704%",
-        "weight_value": 6.704,
+        "code": "2327",
+        "name": "國巨股份",
+        "shares": 5100000.0,
+        "weight": "6.868%",
+        "weight_value": 6.868,
         "rank": 3
       }
     ],
