@@ -2329,6 +2329,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-05-28",
+      "holdings_count": 51,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 11657000.0,
+          "weight": "9.230%",
+          "weight_value": 9.23,
+          "rank": 1
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 4723000.0,
+          "weight": "8.630%",
+          "weight_value": 8.63,
+          "rank": 2
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 4263000.0,
+          "weight": "6.810%",
+          "weight_value": 6.81,
+          "rank": 3
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 6572000.0,
+          "weight": "5.700%",
+          "weight_value": 5.7,
+          "rank": 4
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "shares": 6231000.0,
+          "weight": "5.620%",
+          "weight_value": 5.62,
+          "rank": 5
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 5141000.0,
+          "weight": "4.780%",
+          "weight_value": 4.78,
+          "rank": 6
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 2169000.0,
+          "weight": "4.770%",
+          "weight_value": 4.77,
+          "rank": 7
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 12466000.0,
+          "weight": "4.640%",
+          "weight_value": 4.64,
+          "rank": 8
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "shares": 18313000.0,
+          "weight": "4.420%",
+          "weight_value": 4.42,
+          "rank": 9
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 2344000.0,
+          "weight": "4.100%",
+          "weight_value": 4.1,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
