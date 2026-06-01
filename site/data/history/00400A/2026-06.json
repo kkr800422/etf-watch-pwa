@@ -1,0 +1,98 @@
+{
+  "fund": {
+    "id": "00400A",
+    "name": "國泰台股動能高息",
+    "fund_code": "00400A.TW",
+    "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
+    "source": "MoneyDJ"
+  },
+  "month": "2026-06",
+  "snapshots": [
+    {
+      "snapshot_date": "2026-06-01",
+      "holdings_count": 50,
+      "top_holdings": [
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 465000.0,
+          "weight": "8.850%",
+          "weight_value": 8.85,
+          "rank": 1
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 770000.0,
+          "weight": "8.010%",
+          "weight_value": 8.01,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 332000.0,
+          "weight": "7.510%",
+          "weight_value": 7.51,
+          "rank": 3
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 571000.0,
+          "weight": "6.170%",
+          "weight_value": 6.17,
+          "rank": 4
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 1211000.0,
+          "weight": "5.640%",
+          "weight_value": 5.64,
+          "rank": 5
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 413000.0,
+          "weight": "4.600%",
+          "weight_value": 4.6,
+          "rank": 6
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 140000.0,
+          "weight": "3.370%",
+          "weight_value": 3.37,
+          "rank": 7
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "shares": 748000.0,
+          "weight": "3.350%",
+          "weight_value": 3.35,
+          "rank": 8
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 137000.0,
+          "weight": "3.060%",
+          "weight_value": 3.06,
+          "rank": 9
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "shares": 34000.0,
+          "weight": "2.850%",
+          "weight_value": 2.85,
+          "rank": 10
+        }
+      ]
+    }
+  ]
+}

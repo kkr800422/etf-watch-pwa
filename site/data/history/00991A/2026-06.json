@@ -1,0 +1,98 @@
+{
+  "fund": {
+    "id": "00991A",
+    "name": "復華台灣未來50",
+    "fund_code": "ETF23",
+    "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
+    "source": "FH API"
+  },
+  "month": "2026-06",
+  "snapshots": [
+    {
+      "snapshot_date": "2026-06-01",
+      "holdings_count": 50,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台灣積體",
+          "shares": 3650000.0,
+          "weight": "14.850%",
+          "weight_value": 14.85,
+          "rank": 1
+        },
+        {
+          "code": "2383",
+          "name": "台光電子",
+          "shares": 760000.0,
+          "weight": "6.723%",
+          "weight_value": 6.723,
+          "rank": 2
+        },
+        {
+          "code": "2327",
+          "name": "國巨股份",
+          "shares": 5100000.0,
+          "weight": "6.502%",
+          "weight_value": 6.502,
+          "rank": 3
+        },
+        {
+          "code": "8299",
+          "name": "群聯電子",
+          "shares": 1400000.0,
+          "weight": "6.228%",
+          "weight_value": 6.228,
+          "rank": 4
+        },
+        {
+          "code": "3037",
+          "name": "欣興電子",
+          "shares": 3200000.0,
+          "weight": "5.832%",
+          "weight_value": 5.832,
+          "rank": 5
+        },
+        {
+          "code": "2408",
+          "name": "南亞科技",
+          "shares": 7500000.0,
+          "weight": "4.496%",
+          "weight_value": 4.496,
+          "rank": 6
+        },
+        {
+          "code": "2454",
+          "name": "聯發科技",
+          "shares": 540000.0,
+          "weight": "4.021%",
+          "weight_value": 4.021,
+          "rank": 7
+        },
+        {
+          "code": "2308",
+          "name": "台達電子",
+          "shares": 920000.0,
+          "weight": "3.886%",
+          "weight_value": 3.886,
+          "rank": 8
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐科技",
+          "shares": 830000.0,
+          "weight": "3.821%",
+          "weight_value": 3.821,
+          "rank": 9
+        },
+        {
+          "code": "7769",
+          "name": "鴻勁精密",
+          "shares": 260000.0,
+          "weight": "3.710%",
+          "weight_value": 3.71,
+          "rank": 10
+        }
+      ]
+    }
+  ]
+}
