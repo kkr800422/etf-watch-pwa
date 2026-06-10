@@ -781,6 +781,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-06-10",
+      "holdings_count": 53,
+      "top_holdings": [
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 440000.0,
+          "weight": "8.870%",
+          "weight_value": 8.87,
+          "rank": 1
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 770000.0,
+          "weight": "8.000%",
+          "weight_value": 8.0,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 332000.0,
+          "weight": "7.580%",
+          "weight_value": 7.58,
+          "rank": 3
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 522000.0,
+          "weight": "5.680%",
+          "weight_value": 5.68,
+          "rank": 4
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 404000.0,
+          "weight": "4.350%",
+          "weight_value": 4.35,
+          "rank": 5
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 137000.0,
+          "weight": "4.200%",
+          "weight_value": 4.2,
+          "rank": 6
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 850000.0,
+          "weight": "3.710%",
+          "weight_value": 3.71,
+          "rank": 7
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 140000.0,
+          "weight": "3.340%",
+          "weight_value": 3.34,
+          "rank": 8
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "shares": 260000.0,
+          "weight": "2.900%",
+          "weight_value": 2.9,
+          "rank": 9
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "shares": 34000.0,
+          "weight": "2.740%",
+          "weight_value": 2.74,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
