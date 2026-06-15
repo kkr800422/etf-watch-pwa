@@ -7,7 +7,7 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-06-14",
+    "snapshot_date": "2026-06-15",
     "holdings_count": 51,
     "summary": {
       "added": 0,
@@ -51,7 +51,7 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-06-14",
+    "snapshot_date": "2026-06-15",
     "holdings_count": 51,
     "summary": {
       "added": 0,
@@ -95,13 +95,13 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-06-14",
+    "snapshot_date": "2026-06-15",
     "holdings_count": 50,
     "summary": {
-      "added": 1,
-      "removed": 1,
-      "increased": 1,
-      "decreased": 3
+      "added": 0,
+      "removed": 0,
+      "increased": 0,
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -129,39 +129,6 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00991A",
-        "stock_code": "4958",
-        "stock_name": "臻鼎-KY",
-        "weight": "1.865%",
-        "shares": 2000000.0,
-        "change_type": "added",
-        "shares_diff": 2000000.0,
-        "diff_lots": 2000
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "3189",
-        "stock_name": "景碩科技",
-        "weight": "1.958%",
-        "shares": 1900000.0,
-        "shares_diff": -200000.0,
-        "diff_lots": -200,
-        "change_rate": -9.52,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "8046",
-        "stock_name": "南亞電路",
-        "weight": "2.006%",
-        "shares": 1450000.0,
-        "shares_diff": -150000.0,
-        "diff_lots": -150,
-        "change_rate": -9.38,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   }
 ]
