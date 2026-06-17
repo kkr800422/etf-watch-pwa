@@ -1383,6 +1383,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-06-17",
+      "holdings_count": 51,
+      "top_holdings": [
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 440000.0,
+          "weight": "9.050%",
+          "weight_value": 9.05,
+          "rank": 1
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 770000.0,
+          "weight": "8.330%",
+          "weight_value": 8.33,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 332000.0,
+          "weight": "7.670%",
+          "weight_value": 7.67,
+          "rank": 3
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 522000.0,
+          "weight": "5.250%",
+          "weight_value": 5.25,
+          "rank": 4
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 404000.0,
+          "weight": "4.240%",
+          "weight_value": 4.24,
+          "rank": 5
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "shares": 853000.0,
+          "weight": "4.020%",
+          "weight_value": 4.02,
+          "rank": 6
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 850000.0,
+          "weight": "3.760%",
+          "weight_value": 3.76,
+          "rank": 7
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "shares": 797000.0,
+          "weight": "3.410%",
+          "weight_value": 3.41,
+          "rank": 8
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 140000.0,
+          "weight": "3.080%",
+          "weight_value": 3.08,
+          "rank": 9
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "shares": 260000.0,
+          "weight": "2.950%",
+          "weight_value": 2.95,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
