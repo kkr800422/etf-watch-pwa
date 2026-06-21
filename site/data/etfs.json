@@ -7,7 +7,7 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-06-20",
+    "snapshot_date": "2026-06-21",
     "holdings_count": 50,
     "summary": {
       "added": 0,
@@ -51,7 +51,7 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-06-20",
+    "snapshot_date": "2026-06-21",
     "holdings_count": 51,
     "summary": {
       "added": 0,
@@ -95,7 +95,7 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-06-20",
+    "snapshot_date": "2026-06-21",
     "holdings_count": 50,
     "summary": {
       "added": 0,

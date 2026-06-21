@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T13:42:24.600410+08:00",
-  "latest_snapshot_date": "2026-06-20",
+  "generated_at": "2026-06-21T14:17:18.680165+08:00",
+  "latest_snapshot_date": "2026-06-21",
   "fund_count": 3,
   "alert_count": 0,
   "cards": [
@@ -12,7 +12,7 @@
         "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
         "source": "EZMoney"
       },
-      "snapshot_date": "2026-06-20",
+      "snapshot_date": "2026-06-21",
       "holdings_count": 50,
       "summary": {
         "added": 0,
@@ -56,7 +56,7 @@
         "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
         "source": "MoneyDJ"
       },
-      "snapshot_date": "2026-06-20",
+      "snapshot_date": "2026-06-21",
       "holdings_count": 51,
       "summary": {
         "added": 0,
@@ -100,7 +100,7 @@
         "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
         "source": "FH API"
       },
-      "snapshot_date": "2026-06-20",
+      "snapshot_date": "2026-06-21",
       "holdings_count": 50,
       "summary": {
         "added": 0,
