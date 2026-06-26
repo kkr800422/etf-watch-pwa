@@ -7,7 +7,7 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-06-25",
+    "snapshot_date": "2026-06-26",
     "holdings_count": 50,
     "summary": {
       "added": 0,
@@ -20,24 +20,24 @@
         "code": "2330",
         "name": "台積電",
         "shares": 11960000.0,
-        "weight": "9.800%",
-        "weight_value": 9.8,
+        "weight": "9.760%",
+        "weight_value": 9.76,
         "rank": 1
       },
       {
         "code": "2327",
         "name": "國巨*",
-        "shares": 23892000.0,
-        "weight": "8.600%",
-        "weight_value": 8.6,
+        "shares": 25098000.0,
+        "weight": "9.640%",
+        "weight_value": 9.64,
         "rank": 2
       },
       {
         "code": "2383",
         "name": "台光電",
         "shares": 4486000.0,
-        "weight": "8.550%",
-        "weight_value": 8.55,
+        "weight": "8.640%",
+        "weight_value": 8.64,
         "rank": 3
       }
     ],
@@ -46,34 +46,34 @@
         "fund_id": "00981A",
         "stock_code": "2303",
         "stock_name": "聯電",
-        "weight": "5.100%",
-        "shares": 83532000.0,
-        "shares_diff": 6142000.0,
-        "diff_lots": 6142,
-        "change_rate": 7.94,
+        "weight": "5.280%",
+        "shares": 86550000.0,
+        "shares_diff": 3018000.0,
+        "diff_lots": 3018,
+        "change_rate": 3.61,
         "change_type": "increased"
       },
       {
         "fund_id": "00981A",
-        "stock_code": "3711",
-        "stock_name": "日月光投控",
-        "weight": "3.170%",
-        "shares": 14158000.0,
-        "shares_diff": -3790000.0,
-        "diff_lots": -3790,
-        "change_rate": -21.12,
-        "change_type": "decreased"
+        "stock_code": "3037",
+        "stock_name": "欣興",
+        "weight": "5.130%",
+        "shares": 14735000.0,
+        "shares_diff": 1428000.0,
+        "diff_lots": 1428,
+        "change_rate": 10.73,
+        "change_type": "increased"
       },
       {
         "fund_id": "00981A",
-        "stock_code": "8150",
-        "stock_name": "南茂",
-        "weight": "0.000%",
-        "shares": 1000.0,
-        "shares_diff": -1443000.0,
-        "diff_lots": -1443,
-        "change_rate": -99.93,
-        "change_type": "decreased"
+        "stock_code": "2327",
+        "stock_name": "國巨*",
+        "weight": "9.640%",
+        "shares": 25098000.0,
+        "shares_diff": 1206000.0,
+        "diff_lots": 1206,
+        "change_rate": 5.05,
+        "change_type": "increased"
       }
     ]
   },
@@ -85,41 +85,73 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-06-25",
-    "holdings_count": 54,
+    "snapshot_date": "2026-06-26",
+    "holdings_count": 57,
     "summary": {
-      "added": 0,
+      "added": 3,
       "removed": 0,
-      "increased": 0,
-      "decreased": 0
+      "increased": 2,
+      "decreased": 1
     },
     "top_holdings": [
       {
         "code": "2454",
         "name": "聯發科",
         "shares": 440000.0,
-        "weight": "7.930%",
-        "weight_value": 7.93,
+        "weight": "7.920%",
+        "weight_value": 7.92,
         "rank": 1
       },
       {
         "code": "2383",
         "name": "台光電",
         "shares": 332000.0,
-        "weight": "7.770%",
-        "weight_value": 7.77,
+        "weight": "7.820%",
+        "weight_value": 7.82,
         "rank": 2
       },
       {
         "code": "2330",
         "name": "台積電",
         "shares": 770000.0,
-        "weight": "7.740%",
-        "weight_value": 7.74,
+        "weight": "7.680%",
+        "weight_value": 7.68,
         "rank": 3
       }
     ],
-    "top_movers": []
+    "top_movers": [
+      {
+        "fund_id": "00400A",
+        "stock_code": "2303",
+        "stock_name": "聯電",
+        "weight": "2.210%",
+        "shares": 2962000.0,
+        "shares_diff": 609000.0,
+        "diff_lots": 609,
+        "change_rate": 25.88,
+        "change_type": "increased"
+      },
+      {
+        "fund_id": "00400A",
+        "stock_code": "2481",
+        "stock_name": "強茂",
+        "weight": "0.450%",
+        "shares": 565000.0,
+        "change_type": "added",
+        "shares_diff": 565000.0,
+        "diff_lots": 565
+      },
+      {
+        "fund_id": "00400A",
+        "stock_code": "2344",
+        "stock_name": "華邦電",
+        "weight": "0.490%",
+        "shares": 540000.0,
+        "change_type": "added",
+        "shares_diff": 540000.0,
+        "diff_lots": 540
+      }
+    ]
   },
   {
     "fund": {
@@ -129,72 +161,61 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-06-25",
+    "snapshot_date": "2026-06-26",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 14,
-      "decreased": 3
+      "increased": 2,
+      "decreased": 0
     },
     "top_holdings": [
       {
         "code": "2330",
         "name": "台灣積體",
         "shares": 3400000.0,
-        "weight": "12.021%",
-        "weight_value": 12.021,
+        "weight": "11.769%",
+        "weight_value": 11.769,
         "rank": 1
       },
       {
         "code": "2327",
         "name": "國巨股份",
         "shares": 6150000.0,
-        "weight": "9.553%",
-        "weight_value": 9.553,
+        "weight": "10.020%",
+        "weight_value": 10.02,
         "rank": 2
       },
       {
         "code": "2383",
         "name": "台光電子",
         "shares": 850000.0,
-        "weight": "6.991%",
-        "weight_value": 6.991,
+        "weight": "6.943%",
+        "weight_value": 6.943,
         "rank": 3
       }
     ],
     "top_movers": [
       {
         "fund_id": "00991A",
-        "stock_code": "2344",
-        "stock_name": "華邦電子",
-        "weight": "2.305%",
-        "shares": 7600000.0,
-        "shares_diff": 1300000.0,
-        "diff_lots": 1300,
-        "change_rate": 20.63,
+        "stock_code": "6274",
+        "stock_name": "台燿科技",
+        "weight": "4.186%",
+        "shares": 1700000.0,
+        "shares_diff": 100000.0,
+        "diff_lots": 100,
+        "change_rate": 6.25,
         "change_type": "increased"
       },
       {
         "fund_id": "00991A",
-        "stock_code": "3711",
-        "stock_name": "日月光投",
-        "weight": "2.512%",
-        "shares": 2600000.0,
-        "shares_diff": 1200000.0,
-        "diff_lots": 1200,
-        "change_rate": 85.71,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "2303",
-        "stock_name": "聯華電子",
-        "weight": "2.633%",
-        "shares": 10000000.0,
-        "shares_diff": 1000000.0,
-        "diff_lots": 1000,
-        "change_rate": 11.11,
+        "stock_code": "6515",
+        "stock_name": "穎崴科技",
+        "weight": "2.372%",
+        "shares": 180000.0,
+        "shares_diff": 10000.0,
+        "diff_lots": 10,
+        "change_rate": 5.88,
         "change_type": "increased"
       }
     ]

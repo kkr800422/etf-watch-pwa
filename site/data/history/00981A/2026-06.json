@@ -2157,6 +2157,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-06-26",
+      "holdings_count": 50,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 11960000.0,
+          "weight": "9.760%",
+          "weight_value": 9.76,
+          "rank": 1
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "shares": 25098000.0,
+          "weight": "9.640%",
+          "weight_value": 9.64,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 4486000.0,
+          "weight": "8.640%",
+          "weight_value": 8.64,
+          "rank": 3
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 5037000.0,
+          "weight": "7.420%",
+          "weight_value": 7.42,
+          "rank": 4
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 2352000.0,
+          "weight": "5.550%",
+          "weight_value": 5.55,
+          "rank": 5
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "shares": 86550000.0,
+          "weight": "5.280%",
+          "weight_value": 5.28,
+          "rank": 6
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "shares": 6334000.0,
+          "weight": "5.150%",
+          "weight_value": 5.15,
+          "rank": 7
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 14735000.0,
+          "weight": "5.130%",
+          "weight_value": 5.13,
+          "rank": 8
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 5191000.0,
+          "weight": "4.440%",
+          "weight_value": 4.44,
+          "rank": 9
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 5614000.0,
+          "weight": "3.800%",
+          "weight_value": 3.8,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
