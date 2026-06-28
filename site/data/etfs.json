@@ -7,13 +7,13 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-06-27",
+    "snapshot_date": "2026-06-28",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
       "increased": 0,
-      "decreased": 5
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -41,41 +41,7 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00981A",
-        "stock_code": "2449",
-        "stock_name": "京元電子",
-        "weight": "0.500%",
-        "shares": 4481000.0,
-        "shares_diff": -2003000.0,
-        "diff_lots": -2003,
-        "change_rate": -30.89,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "3711",
-        "stock_name": "日月光投控",
-        "weight": "2.900%",
-        "shares": 12742000.0,
-        "shares_diff": -1416000.0,
-        "diff_lots": -1416,
-        "change_rate": -10.0,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "4966",
-        "stock_name": "譜瑞-KY",
-        "weight": "0.240%",
-        "shares": 1116000.0,
-        "shares_diff": -526000.0,
-        "diff_lots": -526,
-        "change_rate": -32.03,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   },
   {
     "fund": {
@@ -85,12 +51,12 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-06-27",
+    "snapshot_date": "2026-06-28",
     "holdings_count": 57,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 5,
+      "increased": 0,
       "decreased": 0
     },
     "top_holdings": [
@@ -119,41 +85,7 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00400A",
-        "stock_code": "2344",
-        "stock_name": "華邦電",
-        "weight": "1.150%",
-        "shares": 1302000.0,
-        "shares_diff": 762000.0,
-        "diff_lots": 762,
-        "change_rate": 141.11,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00400A",
-        "stock_code": "5347",
-        "stock_name": "世界",
-        "weight": "1.870%",
-        "shares": 2154000.0,
-        "shares_diff": 762000.0,
-        "diff_lots": 762,
-        "change_rate": 54.74,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00400A",
-        "stock_code": "3711",
-        "stock_name": "日月光投控",
-        "weight": "1.650%",
-        "shares": 608000.0,
-        "shares_diff": 250000.0,
-        "diff_lots": 250,
-        "change_rate": 69.83,
-        "change_type": "increased"
-      }
-    ]
+    "top_movers": []
   },
   {
     "fund": {
@@ -163,12 +95,12 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-06-27",
+    "snapshot_date": "2026-06-28",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 13,
+      "increased": 0,
       "decreased": 0
     },
     "top_holdings": [
@@ -197,40 +129,6 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00991A",
-        "stock_code": "2303",
-        "stock_name": "聯華電子",
-        "weight": "2.739%",
-        "shares": 11000000.0,
-        "shares_diff": 1000000.0,
-        "diff_lots": 1000,
-        "change_rate": 10.0,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "2404",
-        "stock_name": "漢唐集成",
-        "weight": "1.322%",
-        "shares": 650000.0,
-        "shares_diff": 649000.0,
-        "diff_lots": 649,
-        "change_rate": 64900.0,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "2344",
-        "stock_name": "華邦電子",
-        "weight": "2.508%",
-        "shares": 8000000.0,
-        "shares_diff": 400000.0,
-        "diff_lots": 400,
-        "change_rate": 5.26,
-        "change_type": "increased"
-      }
-    ]
+    "top_movers": []
   }
 ]
