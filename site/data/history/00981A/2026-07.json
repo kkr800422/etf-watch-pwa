@@ -1,0 +1,98 @@
+{
+  "fund": {
+    "id": "00981A",
+    "name": "統一台股增長",
+    "fund_code": "49YTW",
+    "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
+    "source": "EZMoney"
+  },
+  "month": "2026-07",
+  "snapshots": [
+    {
+      "snapshot_date": "2026-07-01",
+      "holdings_count": 50,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 11960000.0,
+          "weight": "9.930%",
+          "weight_value": 9.93,
+          "rank": 1
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "shares": 25098000.0,
+          "weight": "9.860%",
+          "weight_value": 9.86,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 4486000.0,
+          "weight": "8.330%",
+          "weight_value": 8.33,
+          "rank": 3
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 5037000.0,
+          "weight": "7.370%",
+          "weight_value": 7.37,
+          "rank": 4
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 15203000.0,
+          "weight": "5.600%",
+          "weight_value": 5.6,
+          "rank": 5
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "shares": 6334000.0,
+          "weight": "5.440%",
+          "weight_value": 5.44,
+          "rank": 6
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 2382000.0,
+          "weight": "5.000%",
+          "weight_value": 5.0,
+          "rank": 7
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "shares": 86550000.0,
+          "weight": "4.900%",
+          "weight_value": 4.9,
+          "rank": 8
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 5191000.0,
+          "weight": "4.520%",
+          "weight_value": 4.52,
+          "rank": 9
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 2417000.0,
+          "weight": "3.860%",
+          "weight_value": 3.86,
+          "rank": 10
+        }
+      ]
+    }
+  ]
+}

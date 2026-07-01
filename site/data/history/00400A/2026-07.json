@@ -1,0 +1,98 @@
+{
+  "fund": {
+    "id": "00400A",
+    "name": "國泰台股動能高息",
+    "fund_code": "00400A.TW",
+    "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
+    "source": "MoneyDJ"
+  },
+  "month": "2026-07",
+  "snapshots": [
+    {
+      "snapshot_date": "2026-07-01",
+      "holdings_count": 58,
+      "top_holdings": [
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 440000.0,
+          "weight": "7.330%",
+          "weight_value": 7.33,
+          "rank": 1
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 770000.0,
+          "weight": "7.290%",
+          "weight_value": 7.29,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 332000.0,
+          "weight": "7.030%",
+          "weight_value": 7.03,
+          "rank": 3
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 171000.0,
+          "weight": "4.090%",
+          "weight_value": 4.09,
+          "rank": 4
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "shares": 898000.0,
+          "weight": "4.020%",
+          "weight_value": 4.02,
+          "rank": 5
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 398000.0,
+          "weight": "3.950%",
+          "weight_value": 3.95,
+          "rank": 6
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 850000.0,
+          "weight": "3.570%",
+          "weight_value": 3.57,
+          "rank": 7
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "shares": 459000.0,
+          "weight": "3.510%",
+          "weight_value": 3.51,
+          "rank": 8
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 404000.0,
+          "weight": "3.430%",
+          "weight_value": 3.43,
+          "rank": 9
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "shares": 853000.0,
+          "weight": "3.370%",
+          "weight_value": 3.37,
+          "rank": 10
+        }
+      ]
+    }
+  ]
+}

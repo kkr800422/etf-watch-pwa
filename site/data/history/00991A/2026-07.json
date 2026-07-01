@@ -1,0 +1,98 @@
+{
+  "fund": {
+    "id": "00991A",
+    "name": "復華台灣未來50",
+    "fund_code": "ETF23",
+    "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
+    "source": "FH API"
+  },
+  "month": "2026-07",
+  "snapshots": [
+    {
+      "snapshot_date": "2026-07-01",
+      "holdings_count": 50,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台灣積體",
+          "shares": 3400000.0,
+          "weight": "11.635%",
+          "weight_value": 11.635,
+          "rank": 1
+        },
+        {
+          "code": "2327",
+          "name": "國巨股份",
+          "shares": 6150000.0,
+          "weight": "9.955%",
+          "weight_value": 9.955,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電子",
+          "shares": 850000.0,
+          "weight": "6.505%",
+          "weight_value": 6.505,
+          "rank": 3
+        },
+        {
+          "code": "2408",
+          "name": "南亞科技",
+          "shares": 9000000.0,
+          "weight": "5.782%",
+          "weight_value": 5.782,
+          "rank": 4
+        },
+        {
+          "code": "3037",
+          "name": "欣興電子",
+          "shares": 3600000.0,
+          "weight": "5.469%",
+          "weight_value": 5.469,
+          "rank": 5
+        },
+        {
+          "code": "2454",
+          "name": "聯發科技",
+          "shares": 850000.0,
+          "weight": "5.123%",
+          "weight_value": 5.123,
+          "rank": 6
+        },
+        {
+          "code": "8299",
+          "name": "群聯電子",
+          "shares": 1500000.0,
+          "weight": "5.080%",
+          "weight_value": 5.08,
+          "rank": 7
+        },
+        {
+          "code": "6274",
+          "name": "台燿科技",
+          "shares": 1800000.0,
+          "weight": "4.294%",
+          "weight_value": 4.294,
+          "rank": 8
+        },
+        {
+          "code": "6223",
+          "name": "旺矽科技",
+          "shares": 430000.0,
+          "weight": "3.718%",
+          "weight_value": 3.718,
+          "rank": 9
+        },
+        {
+          "code": "2345",
+          "name": "智邦科技",
+          "shares": 1000000.0,
+          "weight": "3.543%",
+          "weight_value": 3.543,
+          "rank": 10
+        }
+      ]
+    }
+  ]
+}
