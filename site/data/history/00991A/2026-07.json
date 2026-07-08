@@ -609,6 +609,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-07-08",
+      "holdings_count": 50,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台灣積體",
+          "shares": 3800000.0,
+          "weight": "12.980%",
+          "weight_value": 12.98,
+          "rank": 1
+        },
+        {
+          "code": "2327",
+          "name": "國巨股份",
+          "shares": 6400000.0,
+          "weight": "8.108%",
+          "weight_value": 8.108,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電子",
+          "shares": 1100000.0,
+          "weight": "8.038%",
+          "weight_value": 8.038,
+          "rank": 3
+        },
+        {
+          "code": "2454",
+          "name": "聯發科技",
+          "shares": 950000.0,
+          "weight": "5.360%",
+          "weight_value": 5.36,
+          "rank": 4
+        },
+        {
+          "code": "2408",
+          "name": "南亞科技",
+          "shares": 9000000.0,
+          "weight": "5.078%",
+          "weight_value": 5.078,
+          "rank": 5
+        },
+        {
+          "code": "6223",
+          "name": "旺矽科技",
+          "shares": 530000.0,
+          "weight": "4.682%",
+          "weight_value": 4.682,
+          "rank": 6
+        },
+        {
+          "code": "3037",
+          "name": "欣興電子",
+          "shares": 3900000.0,
+          "weight": "4.586%",
+          "weight_value": 4.586,
+          "rank": 7
+        },
+        {
+          "code": "8299",
+          "name": "群聯電子",
+          "shares": 1500000.0,
+          "weight": "4.504%",
+          "weight_value": 4.504,
+          "rank": 8
+        },
+        {
+          "code": "6274",
+          "name": "台燿科技",
+          "shares": 2000000.0,
+          "weight": "4.410%",
+          "weight_value": 4.41,
+          "rank": 9
+        },
+        {
+          "code": "2345",
+          "name": "智邦科技",
+          "shares": 1100000.0,
+          "weight": "3.781%",
+          "weight_value": 3.781,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
