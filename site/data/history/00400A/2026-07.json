@@ -1555,6 +1555,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-07-20",
+      "holdings_count": 57,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 958000.0,
+          "weight": "8.850%",
+          "weight_value": 8.85,
+          "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 440000.0,
+          "weight": "5.980%",
+          "weight_value": 5.98,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 281000.0,
+          "weight": "5.090%",
+          "weight_value": 5.09,
+          "rank": 3
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "shares": 853000.0,
+          "weight": "4.270%",
+          "weight_value": 4.27,
+          "rank": 4
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 544000.0,
+          "weight": "4.060%",
+          "weight_value": 4.06,
+          "rank": 5
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 457000.0,
+          "weight": "4.050%",
+          "weight_value": 4.05,
+          "rank": 6
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 171000.0,
+          "weight": "3.860%",
+          "weight_value": 3.86,
+          "rank": 7
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 203000.0,
+          "weight": "3.780%",
+          "weight_value": 3.78,
+          "rank": 8
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 108000.0,
+          "weight": "3.440%",
+          "weight_value": 3.44,
+          "rank": 9
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 1071000.0,
+          "weight": "3.430%",
+          "weight_value": 3.43,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
