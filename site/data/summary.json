@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T12:23:44.503355+08:00",
-  "latest_snapshot_date": "2026-07-25",
+  "generated_at": "2026-07-26T12:37:25.152462+08:00",
+  "latest_snapshot_date": "2026-07-26",
   "fund_count": 3,
-  "alert_count": 2,
+  "alert_count": 0,
   "cards": [
     {
       "fund": {
@@ -12,10 +12,10 @@
         "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
         "source": "EZMoney"
       },
-      "snapshot_date": "2026-07-25",
+      "snapshot_date": "2026-07-26",
       "holdings_count": 51,
       "summary": {
-        "added": 1,
+        "added": 0,
         "removed": 0,
         "increased": 0,
         "decreased": 0
@@ -46,18 +46,7 @@
           "rank": 3
         }
       ],
-      "top_movers": [
-        {
-          "fund_id": "00981A",
-          "stock_code": "4979",
-          "stock_name": "華星光",
-          "weight": "0.300%",
-          "shares": 1874000.0,
-          "change_type": "added",
-          "shares_diff": 1874000.0,
-          "diff_lots": 1874
-        }
-      ]
+      "top_movers": []
     },
     {
       "fund": {
@@ -67,7 +56,7 @@
         "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
         "source": "MoneyDJ"
       },
-      "snapshot_date": "2026-07-25",
+      "snapshot_date": "2026-07-26",
       "holdings_count": 56,
       "summary": {
         "added": 0,
@@ -111,12 +100,12 @@
         "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
         "source": "FH API"
       },
-      "snapshot_date": "2026-07-25",
+      "snapshot_date": "2026-07-26",
       "holdings_count": 50,
       "summary": {
-        "added": 1,
-        "removed": 1,
-        "increased": 1,
+        "added": 0,
+        "removed": 0,
+        "increased": 0,
         "decreased": 0
       },
       "top_holdings": [
@@ -145,90 +134,8 @@
           "rank": 3
         }
       ],
-      "top_movers": [
-        {
-          "fund_id": "00991A",
-          "stock_code": "6488",
-          "stock_name": "環球晶圓",
-          "weight": "0.432%",
-          "shares": 300000.0,
-          "change_type": "removed",
-          "shares_diff": -300000.0,
-          "diff_lots": -300
-        },
-        {
-          "fund_id": "00991A",
-          "stock_code": "2454",
-          "stock_name": "聯發科技",
-          "weight": "5.478%",
-          "shares": 1080000.0,
-          "shares_diff": 80000.0,
-          "diff_lots": 80,
-          "change_rate": 8.0,
-          "change_type": "increased"
-        },
-        {
-          "fund_id": "00991A",
-          "stock_code": "2357",
-          "stock_name": "華碩電腦",
-          "weight": "0.001%",
-          "shares": 1000.0,
-          "change_type": "added",
-          "shares_diff": 1000.0,
-          "diff_lots": 1
-        }
-      ]
+      "top_movers": []
     }
   ],
-  "top_movers": [
-    {
-      "fund_id": "00981A",
-      "stock_code": "4979",
-      "stock_name": "華星光",
-      "weight": "0.300%",
-      "shares": 1874000.0,
-      "change_type": "added",
-      "shares_diff": 1874000.0,
-      "diff_lots": 1874,
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-07-25"
-    },
-    {
-      "fund_id": "00991A",
-      "stock_code": "6488",
-      "stock_name": "環球晶圓",
-      "weight": "0.432%",
-      "shares": 300000.0,
-      "change_type": "removed",
-      "shares_diff": -300000.0,
-      "diff_lots": -300,
-      "fund_name": "復華台灣未來50",
-      "snapshot_date": "2026-07-25"
-    },
-    {
-      "fund_id": "00991A",
-      "stock_code": "2454",
-      "stock_name": "聯發科技",
-      "weight": "5.478%",
-      "shares": 1080000.0,
-      "shares_diff": 80000.0,
-      "diff_lots": 80,
-      "change_rate": 8.0,
-      "change_type": "increased",
-      "fund_name": "復華台灣未來50",
-      "snapshot_date": "2026-07-25"
-    },
-    {
-      "fund_id": "00991A",
-      "stock_code": "2357",
-      "stock_name": "華碩電腦",
-      "weight": "0.001%",
-      "shares": 1000.0,
-      "change_type": "added",
-      "shares_diff": 1000.0,
-      "diff_lots": 1,
-      "fund_name": "復華台灣未來50",
-      "snapshot_date": "2026-07-25"
-    }
-  ]
+  "top_movers": []
 }
