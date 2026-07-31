@@ -2587,6 +2587,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-07-31",
+      "holdings_count": 51,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 10740000.0,
+          "weight": "9.710%",
+          "weight_value": 9.71,
+          "rank": 1
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 4715000.0,
+          "weight": "8.340%",
+          "weight_value": 8.34,
+          "rank": 2
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 5200000.0,
+          "weight": "6.890%",
+          "weight_value": 6.89,
+          "rank": 3
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 17833000.0,
+          "weight": "5.230%",
+          "weight_value": 5.23,
+          "rank": 4
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "shares": 6419000.0,
+          "weight": "5.090%",
+          "weight_value": 5.09,
+          "rank": 5
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 2449000.0,
+          "weight": "4.920%",
+          "weight_value": 4.92,
+          "rank": 6
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 2443000.0,
+          "weight": "4.810%",
+          "weight_value": 4.81,
+          "rank": 7
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "shares": 25437000.0,
+          "weight": "4.760%",
+          "weight_value": 4.76,
+          "rank": 8
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 5496000.0,
+          "weight": "4.750%",
+          "weight_value": 4.75,
+          "rank": 9
+        },
+        {
+          "code": "2303",
+          "name": "聯電",
+          "shares": 87718000.0,
+          "weight": "3.950%",
+          "weight_value": 3.95,
+          "rank": 10
+        }
+      ]
     }
   ]
 }

@@ -2501,6 +2501,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-07-31",
+      "holdings_count": 51,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 958000.0,
+          "weight": "8.580%",
+          "weight_value": 8.58,
+          "rank": 1
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 677000.0,
+          "weight": "5.250%",
+          "weight_value": 5.25,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 291000.0,
+          "weight": "5.100%",
+          "weight_value": 5.1,
+          "rank": 3
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 384000.0,
+          "weight": "5.050%",
+          "weight_value": 5.05,
+          "rank": 4
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 203000.0,
+          "weight": "4.040%",
+          "weight_value": 4.04,
+          "rank": 5
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 457000.0,
+          "weight": "3.920%",
+          "weight_value": 3.92,
+          "rank": 6
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 1336000.0,
+          "weight": "3.890%",
+          "weight_value": 3.89,
+          "rank": 7
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 171000.0,
+          "weight": "3.340%",
+          "weight_value": 3.34,
+          "rank": 8
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 113000.0,
+          "weight": "3.280%",
+          "weight_value": 3.28,
+          "rank": 9
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "shares": 52400.0,
+          "weight": "2.810%",
+          "weight_value": 2.81,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
