@@ -523,6 +523,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-08-07",
+      "holdings_count": 51,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 12134000.0,
+          "weight": "9.280%",
+          "weight_value": 9.28,
+          "rank": 1
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 4863000.0,
+          "weight": "8.340%",
+          "weight_value": 8.34,
+          "rank": 2
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 5448000.0,
+          "weight": "6.900%",
+          "weight_value": 6.9,
+          "rank": 3
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 20210000.0,
+          "weight": "6.360%",
+          "weight_value": 6.36,
+          "rank": 4
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 5801000.0,
+          "weight": "5.510%",
+          "weight_value": 5.51,
+          "rank": 5
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 2708000.0,
+          "weight": "5.490%",
+          "weight_value": 5.49,
+          "rank": 6
+        },
+        {
+          "code": "2345",
+          "name": "智邦",
+          "shares": 6419000.0,
+          "weight": "5.000%",
+          "weight_value": 5.0,
+          "rank": 7
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 2443000.0,
+          "weight": "4.980%",
+          "weight_value": 4.98,
+          "rank": 8
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "shares": 25437000.0,
+          "weight": "4.690%",
+          "weight_value": 4.69,
+          "rank": 9
+        },
+        {
+          "code": "3665",
+          "name": "貿聯-KY",
+          "shares": 5130848.0,
+          "weight": "3.930%",
+          "weight_value": 3.93,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
