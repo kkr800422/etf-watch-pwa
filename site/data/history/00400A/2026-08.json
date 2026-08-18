@@ -1469,6 +1469,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-08-18",
+      "holdings_count": 49,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 1025000.0,
+          "weight": "8.110%",
+          "weight_value": 8.11,
+          "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 470000.0,
+          "weight": "6.280%",
+          "weight_value": 6.28,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 291000.0,
+          "weight": "6.090%",
+          "weight_value": 6.09,
+          "rank": 3
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 1479000.0,
+          "weight": "5.460%",
+          "weight_value": 5.46,
+          "rank": 4
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 113000.0,
+          "weight": "5.120%",
+          "weight_value": 5.12,
+          "rank": 5
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 238000.0,
+          "weight": "4.550%",
+          "weight_value": 4.55,
+          "rank": 6
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "shares": 247000.0,
+          "weight": "4.350%",
+          "weight_value": 4.35,
+          "rank": 7
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 541000.0,
+          "weight": "4.210%",
+          "weight_value": 4.21,
+          "rank": 8
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "shares": 190000.0,
+          "weight": "3.670%",
+          "weight_value": 3.67,
+          "rank": 9
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 336000.0,
+          "weight": "3.490%",
+          "weight_value": 3.49,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
