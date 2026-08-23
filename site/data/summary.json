@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T10:19:53.903951+08:00",
-  "latest_snapshot_date": "2026-08-22",
+  "generated_at": "2026-08-23T10:36:04.982050+08:00",
+  "latest_snapshot_date": "2026-08-23",
   "fund_count": 3,
-  "alert_count": 2,
+  "alert_count": 0,
   "cards": [
     {
       "fund": {
@@ -12,13 +12,13 @@
         "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
         "source": "EZMoney"
       },
-      "snapshot_date": "2026-08-22",
+      "snapshot_date": "2026-08-23",
       "holdings_count": 50,
       "summary": {
         "added": 0,
         "removed": 0,
         "increased": 0,
-        "decreased": 2
+        "decreased": 0
       },
       "top_holdings": [
         {
@@ -46,30 +46,7 @@
           "rank": 3
         }
       ],
-      "top_movers": [
-        {
-          "fund_id": "00981A",
-          "stock_code": "2360",
-          "stock_name": "致茂",
-          "weight": "0.000%",
-          "shares": 1000.0,
-          "shares_diff": -293000.0,
-          "diff_lots": -293,
-          "change_rate": -99.66,
-          "change_type": "decreased"
-        },
-        {
-          "fund_id": "00981A",
-          "stock_code": "2368",
-          "stock_name": "金像電",
-          "weight": "0.670%",
-          "shares": 1957000.0,
-          "shares_diff": -43000.0,
-          "diff_lots": -43,
-          "change_rate": -2.15,
-          "change_type": "decreased"
-        }
-      ]
+      "top_movers": []
     },
     {
       "fund": {
@@ -79,7 +56,7 @@
         "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
         "source": "MoneyDJ"
       },
-      "snapshot_date": "2026-08-22",
+      "snapshot_date": "2026-08-23",
       "holdings_count": 48,
       "summary": {
         "added": 0,
@@ -123,13 +100,13 @@
         "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
         "source": "FH API"
       },
-      "snapshot_date": "2026-08-22",
+      "snapshot_date": "2026-08-23",
       "holdings_count": 50,
       "summary": {
         "added": 0,
         "removed": 0,
         "increased": 0,
-        "decreased": 3
+        "decreased": 0
       },
       "top_holdings": [
         {
@@ -157,108 +134,8 @@
           "rank": 3
         }
       ],
-      "top_movers": [
-        {
-          "fund_id": "00991A",
-          "stock_code": "2345",
-          "stock_name": "智邦科技",
-          "weight": "4.202%",
-          "shares": 1750000.0,
-          "shares_diff": -50000.0,
-          "diff_lots": -50,
-          "change_rate": -2.78,
-          "change_type": "decreased"
-        },
-        {
-          "fund_id": "00991A",
-          "stock_code": "2383",
-          "stock_name": "台光電子",
-          "weight": "9.383%",
-          "shares": 1400000.0,
-          "shares_diff": -30000.0,
-          "diff_lots": -30,
-          "change_rate": -2.1,
-          "change_type": "decreased"
-        },
-        {
-          "fund_id": "00991A",
-          "stock_code": "7769",
-          "stock_name": "鴻勁精密",
-          "weight": "2.872%",
-          "shares": 380000.0,
-          "shares_diff": -20000.0,
-          "diff_lots": -20,
-          "change_rate": -5.0,
-          "change_type": "decreased"
-        }
-      ]
+      "top_movers": []
     }
   ],
-  "top_movers": [
-    {
-      "fund_id": "00981A",
-      "stock_code": "2360",
-      "stock_name": "致茂",
-      "weight": "0.000%",
-      "shares": 1000.0,
-      "shares_diff": -293000.0,
-      "diff_lots": -293,
-      "change_rate": -99.66,
-      "change_type": "decreased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-08-22"
-    },
-    {
-      "fund_id": "00991A",
-      "stock_code": "2345",
-      "stock_name": "智邦科技",
-      "weight": "4.202%",
-      "shares": 1750000.0,
-      "shares_diff": -50000.0,
-      "diff_lots": -50,
-      "change_rate": -2.78,
-      "change_type": "decreased",
-      "fund_name": "復華台灣未來50",
-      "snapshot_date": "2026-08-22"
-    },
-    {
-      "fund_id": "00981A",
-      "stock_code": "2368",
-      "stock_name": "金像電",
-      "weight": "0.670%",
-      "shares": 1957000.0,
-      "shares_diff": -43000.0,
-      "diff_lots": -43,
-      "change_rate": -2.15,
-      "change_type": "decreased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-08-22"
-    },
-    {
-      "fund_id": "00991A",
-      "stock_code": "2383",
-      "stock_name": "台光電子",
-      "weight": "9.383%",
-      "shares": 1400000.0,
-      "shares_diff": -30000.0,
-      "diff_lots": -30,
-      "change_rate": -2.1,
-      "change_type": "decreased",
-      "fund_name": "復華台灣未來50",
-      "snapshot_date": "2026-08-22"
-    },
-    {
-      "fund_id": "00991A",
-      "stock_code": "7769",
-      "stock_name": "鴻勁精密",
-      "weight": "2.872%",
-      "shares": 380000.0,
-      "shares_diff": -20000.0,
-      "diff_lots": -20,
-      "change_rate": -5.0,
-      "change_type": "decreased",
-      "fund_name": "復華台灣未來50",
-      "snapshot_date": "2026-08-22"
-    }
-  ]
+  "top_movers": []
 }
