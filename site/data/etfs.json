@@ -7,13 +7,13 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-08-28",
+    "snapshot_date": "2026-08-29",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 1,
-      "decreased": 4
+      "increased": 0,
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -41,41 +41,7 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00981A",
-        "stock_code": "2449",
-        "stock_name": "京元電子",
-        "weight": "1.170%",
-        "shares": 12668450.0,
-        "shares_diff": 893000.0,
-        "diff_lots": 893,
-        "change_rate": 7.58,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "2330",
-        "stock_name": "台積電",
-        "weight": "9.290%",
-        "shares": 11264000.0,
-        "shares_diff": -620000.0,
-        "diff_lots": -620,
-        "change_rate": -5.22,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "6187",
-        "stock_name": "萬潤",
-        "weight": "0.040%",
-        "shares": 88000.0,
-        "shares_diff": -195000.0,
-        "diff_lots": -195,
-        "change_rate": -68.9,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   },
   {
     "fund": {
@@ -85,12 +51,12 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-08-28",
+    "snapshot_date": "2026-08-29",
     "holdings_count": 47,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 1,
+      "increased": 0,
       "decreased": 0
     },
     "top_holdings": [
@@ -119,19 +85,7 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00400A",
-        "stock_code": "2881",
-        "stock_name": "富邦金",
-        "weight": "1.530%",
-        "shares": 3104000.0,
-        "shares_diff": 1405000.0,
-        "diff_lots": 1405,
-        "change_rate": 82.7,
-        "change_type": "increased"
-      }
-    ]
+    "top_movers": []
   },
   {
     "fund": {
@@ -141,13 +95,13 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-08-28",
+    "snapshot_date": "2026-08-29",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
       "increased": 0,
-      "decreased": 2
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -175,29 +129,6 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00991A",
-        "stock_code": "2330",
-        "stock_name": "台灣積體",
-        "weight": "11.300%",
-        "shares": 4000000.0,
-        "shares_diff": -200000.0,
-        "diff_lots": -200,
-        "change_rate": -4.76,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "6223",
-        "stock_name": "旺矽科技",
-        "weight": "2.231%",
-        "shares": 380000.0,
-        "shares_diff": -80000.0,
-        "diff_lots": -80,
-        "change_rate": -17.39,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   }
 ]
