@@ -1,0 +1,98 @@
+{
+  "fund": {
+    "id": "00400A",
+    "name": "國泰台股動能高息",
+    "fund_code": "00400A.TW",
+    "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
+    "source": "MoneyDJ"
+  },
+  "month": "2026-09",
+  "snapshots": [
+    {
+      "snapshot_date": "2026-09-01",
+      "holdings_count": 47,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 1034000.0,
+          "weight": "8.650%",
+          "weight_value": 8.65,
+          "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 470000.0,
+          "weight": "6.420%",
+          "weight_value": 6.42,
+          "rank": 2
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 123000.0,
+          "weight": "6.070%",
+          "weight_value": 6.07,
+          "rank": 3
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "shares": 221000.0,
+          "weight": "5.450%",
+          "weight_value": 5.45,
+          "rank": 4
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "shares": 247000.0,
+          "weight": "5.150%",
+          "weight_value": 5.15,
+          "rank": 5
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 238000.0,
+          "weight": "4.250%",
+          "weight_value": 4.25,
+          "rank": 6
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "shares": 154000.0,
+          "weight": "4.100%",
+          "weight_value": 4.1,
+          "rank": 7
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "shares": 190000.0,
+          "weight": "4.030%",
+          "weight_value": 4.03,
+          "rank": 8
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 336000.0,
+          "weight": "4.000%",
+          "weight_value": 4.0,
+          "rank": 9
+        },
+        {
+          "code": "2360",
+          "name": "致茂",
+          "shares": 470000.0,
+          "weight": "3.200%",
+          "weight_value": 3.2,
+          "rank": 10
+        }
+      ]
+    }
+  ]
+}
