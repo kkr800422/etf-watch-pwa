@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T13:50:23.613958+08:00",
-  "latest_snapshot_date": "2026-09-04",
+  "generated_at": "2026-09-05T13:41:56.454502+08:00",
+  "latest_snapshot_date": "2026-09-05",
   "fund_count": 3,
   "alert_count": 1,
   "cards": [
@@ -12,73 +12,62 @@
         "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
         "source": "EZMoney"
       },
-      "snapshot_date": "2026-09-04",
+      "snapshot_date": "2026-09-05",
       "holdings_count": 50,
       "summary": {
         "added": 0,
         "removed": 0,
         "increased": 2,
-        "decreased": 3
+        "decreased": 0
       },
       "top_holdings": [
         {
           "code": "2330",
           "name": "台積電",
           "shares": 11014000.0,
-          "weight": "9.560%",
-          "weight_value": 9.56,
+          "weight": "9.380%",
+          "weight_value": 9.38,
           "rank": 1
         },
         {
           "code": "2383",
           "name": "台光電",
           "shares": 4750000.0,
-          "weight": "9.120%",
-          "weight_value": 9.12,
+          "weight": "9.090%",
+          "weight_value": 9.09,
           "rank": 2
         },
         {
           "code": "2454",
           "name": "聯發科",
           "shares": 5088000.0,
-          "weight": "8.020%",
-          "weight_value": 8.02,
+          "weight": "7.940%",
+          "weight_value": 7.94,
           "rank": 3
         }
       ],
       "top_movers": [
         {
           "fund_id": "00981A",
-          "stock_code": "2368",
-          "stock_name": "金像電",
-          "weight": "0.090%",
-          "shares": 219000.0,
-          "shares_diff": -1238000.0,
-          "diff_lots": -1238,
-          "change_rate": -84.97,
-          "change_type": "decreased"
+          "stock_code": "6515",
+          "stock_name": "穎崴",
+          "weight": "0.240%",
+          "shares": 95000.0,
+          "shares_diff": 41000.0,
+          "diff_lots": 41,
+          "change_rate": 75.93,
+          "change_type": "increased"
         },
         {
           "fund_id": "00981A",
-          "stock_code": "4979",
-          "stock_name": "華星光",
-          "weight": "0.450%",
-          "shares": 2184000.0,
-          "shares_diff": -654000.0,
-          "diff_lots": -654,
-          "change_rate": -23.04,
-          "change_type": "decreased"
-        },
-        {
-          "fund_id": "00981A",
-          "stock_code": "8046",
-          "stock_name": "南電",
-          "weight": "3.700%",
-          "shares": 9426000.0,
-          "shares_diff": -48000.0,
-          "diff_lots": -48,
-          "change_rate": -0.51,
-          "change_type": "decreased"
+          "stock_code": "3653",
+          "stock_name": "健策",
+          "weight": "5.080%",
+          "shares": 2447000.0,
+          "shares_diff": 20000.0,
+          "diff_lots": 20,
+          "change_rate": 0.82,
+          "change_type": "increased"
         }
       ]
     },
@@ -90,7 +79,7 @@
         "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
         "source": "MoneyDJ"
       },
-      "snapshot_date": "2026-09-04",
+      "snapshot_date": "2026-09-05",
       "holdings_count": 47,
       "summary": {
         "added": 0,
@@ -103,24 +92,24 @@
           "code": "2330",
           "name": "台積電",
           "shares": 1034000.0,
-          "weight": "8.760%",
-          "weight_value": 8.76,
+          "weight": "8.570%",
+          "weight_value": 8.57,
           "rank": 1
         },
         {
           "code": "2454",
           "name": "聯發科",
           "shares": 470000.0,
-          "weight": "7.230%",
-          "weight_value": 7.23,
+          "weight": "7.140%",
+          "weight_value": 7.14,
           "rank": 2
         },
         {
           "code": "2059",
           "name": "川湖",
           "shares": 123000.0,
-          "weight": "5.870%",
-          "weight_value": 5.87,
+          "weight": "5.860%",
+          "weight_value": 5.86,
           "rank": 3
         }
       ],
@@ -134,7 +123,7 @@
         "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
         "source": "FH API"
       },
-      "snapshot_date": "2026-09-04",
+      "snapshot_date": "2026-09-05",
       "holdings_count": 50,
       "summary": {
         "added": 0,
@@ -147,24 +136,24 @@
           "code": "2330",
           "name": "台灣積體",
           "shares": 3800000.0,
-          "weight": "11.691%",
-          "weight_value": 11.691,
+          "weight": "11.489%",
+          "weight_value": 11.489,
           "rank": 1
         },
         {
           "code": "2383",
           "name": "台光電子",
           "shares": 1380000.0,
-          "weight": "9.397%",
-          "weight_value": 9.397,
+          "weight": "9.374%",
+          "weight_value": 9.374,
           "rank": 2
         },
         {
           "code": "2059",
           "name": "川湖科技",
           "shares": 500000.0,
-          "weight": "8.657%",
-          "weight_value": 8.657,
+          "weight": "8.694%",
+          "weight_value": 8.694,
           "rank": 3
         }
       ],
@@ -174,68 +163,29 @@
   "top_movers": [
     {
       "fund_id": "00981A",
-      "stock_code": "2368",
-      "stock_name": "金像電",
-      "weight": "0.090%",
-      "shares": 219000.0,
-      "shares_diff": -1238000.0,
-      "diff_lots": -1238,
-      "change_rate": -84.97,
-      "change_type": "decreased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-04"
-    },
-    {
-      "fund_id": "00981A",
-      "stock_code": "4979",
-      "stock_name": "華星光",
-      "weight": "0.450%",
-      "shares": 2184000.0,
-      "shares_diff": -654000.0,
-      "diff_lots": -654,
-      "change_rate": -23.04,
-      "change_type": "decreased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-04"
-    },
-    {
-      "fund_id": "00981A",
-      "stock_code": "8046",
-      "stock_name": "南電",
-      "weight": "3.700%",
-      "shares": 9426000.0,
-      "shares_diff": -48000.0,
-      "diff_lots": -48,
-      "change_rate": -0.51,
-      "change_type": "decreased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-04"
-    },
-    {
-      "fund_id": "00981A",
-      "stock_code": "3443",
-      "stock_name": "創意",
-      "weight": "0.780%",
-      "shares": 372000.0,
-      "shares_diff": 47000.0,
-      "diff_lots": 47,
-      "change_rate": 14.46,
+      "stock_code": "6515",
+      "stock_name": "穎崴",
+      "weight": "0.240%",
+      "shares": 95000.0,
+      "shares_diff": 41000.0,
+      "diff_lots": 41,
+      "change_rate": 75.93,
       "change_type": "increased",
       "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-04"
+      "snapshot_date": "2026-09-05"
     },
     {
       "fund_id": "00981A",
       "stock_code": "3653",
       "stock_name": "健策",
-      "weight": "4.950%",
-      "shares": 2427000.0,
-      "shares_diff": 30000.0,
-      "diff_lots": 30,
-      "change_rate": 1.25,
+      "weight": "5.080%",
+      "shares": 2447000.0,
+      "shares_diff": 20000.0,
+      "diff_lots": 20,
+      "change_rate": 0.82,
       "change_type": "increased",
       "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-04"
+      "snapshot_date": "2026-09-05"
     }
   ]
 }
