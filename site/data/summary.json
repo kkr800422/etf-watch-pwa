@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-05T13:41:56.454502+08:00",
-  "latest_snapshot_date": "2026-09-05",
+  "generated_at": "2026-09-06T13:54:13.983185+08:00",
+  "latest_snapshot_date": "2026-09-06",
   "fund_count": 3,
-  "alert_count": 1,
+  "alert_count": 0,
   "cards": [
     {
       "fund": {
@@ -12,12 +12,12 @@
         "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
         "source": "EZMoney"
       },
-      "snapshot_date": "2026-09-05",
+      "snapshot_date": "2026-09-06",
       "holdings_count": 50,
       "summary": {
         "added": 0,
         "removed": 0,
-        "increased": 2,
+        "increased": 0,
         "decreased": 0
       },
       "top_holdings": [
@@ -46,30 +46,7 @@
           "rank": 3
         }
       ],
-      "top_movers": [
-        {
-          "fund_id": "00981A",
-          "stock_code": "6515",
-          "stock_name": "穎崴",
-          "weight": "0.240%",
-          "shares": 95000.0,
-          "shares_diff": 41000.0,
-          "diff_lots": 41,
-          "change_rate": 75.93,
-          "change_type": "increased"
-        },
-        {
-          "fund_id": "00981A",
-          "stock_code": "3653",
-          "stock_name": "健策",
-          "weight": "5.080%",
-          "shares": 2447000.0,
-          "shares_diff": 20000.0,
-          "diff_lots": 20,
-          "change_rate": 0.82,
-          "change_type": "increased"
-        }
-      ]
+      "top_movers": []
     },
     {
       "fund": {
@@ -79,7 +56,7 @@
         "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
         "source": "MoneyDJ"
       },
-      "snapshot_date": "2026-09-05",
+      "snapshot_date": "2026-09-06",
       "holdings_count": 47,
       "summary": {
         "added": 0,
@@ -123,7 +100,7 @@
         "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
         "source": "FH API"
       },
-      "snapshot_date": "2026-09-05",
+      "snapshot_date": "2026-09-06",
       "holdings_count": 50,
       "summary": {
         "added": 0,
@@ -160,32 +137,5 @@
       "top_movers": []
     }
   ],
-  "top_movers": [
-    {
-      "fund_id": "00981A",
-      "stock_code": "6515",
-      "stock_name": "穎崴",
-      "weight": "0.240%",
-      "shares": 95000.0,
-      "shares_diff": 41000.0,
-      "diff_lots": 41,
-      "change_rate": 75.93,
-      "change_type": "increased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-05"
-    },
-    {
-      "fund_id": "00981A",
-      "stock_code": "3653",
-      "stock_name": "健策",
-      "weight": "5.080%",
-      "shares": 2447000.0,
-      "shares_diff": 20000.0,
-      "diff_lots": 20,
-      "change_rate": 0.82,
-      "change_type": "increased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-05"
-    }
-  ]
+  "top_movers": []
 }
