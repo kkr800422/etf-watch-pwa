@@ -7,7 +7,7 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-09-13",
+    "snapshot_date": "2026-09-14",
     "holdings_count": 50,
     "summary": {
       "added": 0,
@@ -51,7 +51,7 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-09-13",
+    "snapshot_date": "2026-09-14",
     "holdings_count": 50,
     "summary": {
       "added": 0,
@@ -95,13 +95,13 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-09-13",
+    "snapshot_date": "2026-09-14",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 4,
-      "decreased": 2
+      "increased": 0,
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -129,40 +129,6 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00991A",
-        "stock_code": "3711",
-        "stock_name": "日月光投",
-        "weight": "1.991%",
-        "shares": 2500000.0,
-        "shares_diff": 2491000.0,
-        "diff_lots": 2491,
-        "change_rate": 27677.78,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "8299",
-        "stock_name": "群聯電子",
-        "weight": "0.003%",
-        "shares": 1000.0,
-        "shares_diff": -779000.0,
-        "diff_lots": -779,
-        "change_rate": -99.87,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00991A",
-        "stock_code": "2345",
-        "stock_name": "智邦科技",
-        "weight": "2.671%",
-        "shares": 1100000.0,
-        "shares_diff": -250000.0,
-        "diff_lots": -250,
-        "change_rate": -18.52,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   }
 ]
