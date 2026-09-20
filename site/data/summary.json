@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T13:48:53.501536+08:00",
-  "latest_snapshot_date": "2026-09-19",
+  "generated_at": "2026-09-20T14:10:32.012083+08:00",
+  "latest_snapshot_date": "2026-09-20",
   "fund_count": 3,
-  "alert_count": 1,
+  "alert_count": 0,
   "cards": [
     {
       "fund": {
@@ -12,13 +12,13 @@
         "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
         "source": "EZMoney"
       },
-      "snapshot_date": "2026-09-19",
+      "snapshot_date": "2026-09-20",
       "holdings_count": 50,
       "summary": {
         "added": 0,
         "removed": 0,
-        "increased": 3,
-        "decreased": 2
+        "increased": 0,
+        "decreased": 0
       },
       "top_holdings": [
         {
@@ -46,41 +46,7 @@
           "rank": 3
         }
       ],
-      "top_movers": [
-        {
-          "fund_id": "00981A",
-          "stock_code": "2368",
-          "stock_name": "金像電",
-          "weight": "0.450%",
-          "shares": 1234000.0,
-          "shares_diff": 1015000.0,
-          "diff_lots": 1015,
-          "change_rate": 463.47,
-          "change_type": "increased"
-        },
-        {
-          "fund_id": "00981A",
-          "stock_code": "6669",
-          "stock_name": "緯穎",
-          "weight": "4.550%",
-          "shares": 5972561.0,
-          "shares_diff": -360000.0,
-          "diff_lots": -360,
-          "change_rate": -5.68,
-          "change_type": "decreased"
-        },
-        {
-          "fund_id": "00981A",
-          "stock_code": "2449",
-          "stock_name": "京元電子",
-          "weight": "1.360%",
-          "shares": 13138450.0,
-          "shares_diff": 320000.0,
-          "diff_lots": 320,
-          "change_rate": 2.5,
-          "change_type": "increased"
-        }
-      ]
+      "top_movers": []
     },
     {
       "fund": {
@@ -90,7 +56,7 @@
         "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
         "source": "MoneyDJ"
       },
-      "snapshot_date": "2026-09-19",
+      "snapshot_date": "2026-09-20",
       "holdings_count": 47,
       "summary": {
         "added": 0,
@@ -134,7 +100,7 @@
         "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
         "source": "FH API"
       },
-      "snapshot_date": "2026-09-19",
+      "snapshot_date": "2026-09-20",
       "holdings_count": 50,
       "summary": {
         "added": 0,
@@ -171,71 +137,5 @@
       "top_movers": []
     }
   ],
-  "top_movers": [
-    {
-      "fund_id": "00981A",
-      "stock_code": "2368",
-      "stock_name": "金像電",
-      "weight": "0.450%",
-      "shares": 1234000.0,
-      "shares_diff": 1015000.0,
-      "diff_lots": 1015,
-      "change_rate": 463.47,
-      "change_type": "increased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-19"
-    },
-    {
-      "fund_id": "00981A",
-      "stock_code": "6669",
-      "stock_name": "緯穎",
-      "weight": "4.550%",
-      "shares": 5972561.0,
-      "shares_diff": -360000.0,
-      "diff_lots": -360,
-      "change_rate": -5.68,
-      "change_type": "decreased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-19"
-    },
-    {
-      "fund_id": "00981A",
-      "stock_code": "2449",
-      "stock_name": "京元電子",
-      "weight": "1.360%",
-      "shares": 13138450.0,
-      "shares_diff": 320000.0,
-      "diff_lots": 320,
-      "change_rate": 2.5,
-      "change_type": "increased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-19"
-    },
-    {
-      "fund_id": "00981A",
-      "stock_code": "8210",
-      "stock_name": "勤誠",
-      "weight": "0.440%",
-      "shares": 1364000.0,
-      "shares_diff": -152000.0,
-      "diff_lots": -152,
-      "change_rate": -10.03,
-      "change_type": "decreased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-19"
-    },
-    {
-      "fund_id": "00981A",
-      "stock_code": "6805",
-      "stock_name": "富世達",
-      "weight": "1.450%",
-      "shares": 1773000.0,
-      "shares_diff": 42000.0,
-      "diff_lots": 42,
-      "change_rate": 2.43,
-      "change_type": "increased",
-      "fund_name": "統一台股增長",
-      "snapshot_date": "2026-09-19"
-    }
-  ]
+  "top_movers": []
 }

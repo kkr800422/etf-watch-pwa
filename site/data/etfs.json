@@ -7,13 +7,13 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-09-19",
+    "snapshot_date": "2026-09-20",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
-      "increased": 3,
-      "decreased": 2
+      "increased": 0,
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -41,41 +41,7 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00981A",
-        "stock_code": "2368",
-        "stock_name": "金像電",
-        "weight": "0.450%",
-        "shares": 1234000.0,
-        "shares_diff": 1015000.0,
-        "diff_lots": 1015,
-        "change_rate": 463.47,
-        "change_type": "increased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "6669",
-        "stock_name": "緯穎",
-        "weight": "4.550%",
-        "shares": 5972561.0,
-        "shares_diff": -360000.0,
-        "diff_lots": -360,
-        "change_rate": -5.68,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "2449",
-        "stock_name": "京元電子",
-        "weight": "1.360%",
-        "shares": 13138450.0,
-        "shares_diff": 320000.0,
-        "diff_lots": 320,
-        "change_rate": 2.5,
-        "change_type": "increased"
-      }
-    ]
+    "top_movers": []
   },
   {
     "fund": {
@@ -85,7 +51,7 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-09-19",
+    "snapshot_date": "2026-09-20",
     "holdings_count": 47,
     "summary": {
       "added": 0,
@@ -129,7 +95,7 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-09-19",
+    "snapshot_date": "2026-09-20",
     "holdings_count": 50,
     "summary": {
       "added": 0,
