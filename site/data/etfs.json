@@ -7,13 +7,13 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-10-03",
+    "snapshot_date": "2026-10-04",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
       "increased": 0,
-      "decreased": 3
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -41,41 +41,7 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00981A",
-        "stock_code": "3711",
-        "stock_name": "日月光投控",
-        "weight": "2.500%",
-        "shares": 10276000.0,
-        "shares_diff": -2250000.0,
-        "diff_lots": -2250,
-        "change_rate": -17.96,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "6669",
-        "stock_name": "緯穎",
-        "weight": "3.070%",
-        "shares": 4315561.0,
-        "shares_diff": -347000.0,
-        "diff_lots": -347,
-        "change_rate": -7.44,
-        "change_type": "decreased"
-      },
-      {
-        "fund_id": "00981A",
-        "stock_code": "8210",
-        "stock_name": "勤誠",
-        "weight": "0.270%",
-        "shares": 949000.0,
-        "shares_diff": -95000.0,
-        "diff_lots": -95,
-        "change_rate": -9.1,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   },
   {
     "fund": {
@@ -85,7 +51,7 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-10-03",
+    "snapshot_date": "2026-10-04",
     "holdings_count": 45,
     "summary": {
       "added": 0,
