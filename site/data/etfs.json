@@ -7,7 +7,7 @@
       "url": "https://www.ezmoney.com.tw/ETF/Fund/Info?FundCode=49YTW",
       "source": "EZMoney"
     },
-    "snapshot_date": "2026-10-04",
+    "snapshot_date": "2026-10-05",
     "holdings_count": 50,
     "summary": {
       "added": 0,
@@ -51,7 +51,7 @@
       "url": "https://www.cathaysite.com.tw/ETF/detail/EEA?tab=etf3",
       "source": "MoneyDJ"
     },
-    "snapshot_date": "2026-10-04",
+    "snapshot_date": "2026-10-05",
     "holdings_count": 45,
     "summary": {
       "added": 0,
@@ -95,13 +95,13 @@
       "url": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF23#stockhold",
       "source": "FH API"
     },
-    "snapshot_date": "2026-10-03",
+    "snapshot_date": "2026-10-05",
     "holdings_count": 50,
     "summary": {
       "added": 0,
       "removed": 0,
       "increased": 0,
-      "decreased": 1
+      "decreased": 0
     },
     "top_holdings": [
       {
@@ -129,18 +129,6 @@
         "rank": 3
       }
     ],
-    "top_movers": [
-      {
-        "fund_id": "00991A",
-        "stock_code": "3711",
-        "stock_name": "日月光投",
-        "weight": "1.504%",
-        "shares": 1700000.0,
-        "shares_diff": -330000.0,
-        "diff_lots": -330,
-        "change_rate": -16.26,
-        "change_type": "decreased"
-      }
-    ]
+    "top_movers": []
   }
 ]
