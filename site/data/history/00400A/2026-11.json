@@ -265,6 +265,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-11-04",
+      "holdings_count": 52,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 1131000.0,
+          "weight": "9.010%",
+          "weight_value": 9.01,
+          "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 549000.0,
+          "weight": "7.010%",
+          "weight_value": 7.01,
+          "rank": 2
+        },
+        {
+          "code": "1303",
+          "name": "南亞",
+          "shares": 4167000.0,
+          "weight": "3.920%",
+          "weight_value": 3.92,
+          "rank": 3
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 254000.0,
+          "weight": "3.880%",
+          "weight_value": 3.88,
+          "rank": 4
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 112000.0,
+          "weight": "3.590%",
+          "weight_value": 3.59,
+          "rank": 5
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 1069000.0,
+          "weight": "3.350%",
+          "weight_value": 3.35,
+          "rank": 6
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 329000.0,
+          "weight": "3.350%",
+          "weight_value": 3.35,
+          "rank": 7
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "shares": 154000.0,
+          "weight": "3.230%",
+          "weight_value": 3.23,
+          "rank": 8
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "shares": 54400.0,
+          "weight": "2.780%",
+          "weight_value": 2.78,
+          "rank": 9
+        },
+        {
+          "code": "2603",
+          "name": "長榮",
+          "shares": 2936000.0,
+          "weight": "2.720%",
+          "weight_value": 2.72,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
