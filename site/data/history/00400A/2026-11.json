@@ -867,6 +867,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-11-11",
+      "holdings_count": 52,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 1193000.0,
+          "weight": "9.010%",
+          "weight_value": 9.01,
+          "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 549000.0,
+          "weight": "6.950%",
+          "weight_value": 6.95,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 361000.0,
+          "weight": "5.210%",
+          "weight_value": 5.21,
+          "rank": 3
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 164000.0,
+          "weight": "4.640%",
+          "weight_value": 4.64,
+          "rank": 4
+        },
+        {
+          "code": "1303",
+          "name": "南亞",
+          "shares": 4167000.0,
+          "weight": "3.980%",
+          "weight_value": 3.98,
+          "rank": 5
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 432000.0,
+          "weight": "3.980%",
+          "weight_value": 3.98,
+          "rank": 6
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "shares": 136000.0,
+          "weight": "3.220%",
+          "weight_value": 3.22,
+          "rank": 7
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "shares": 76400.0,
+          "weight": "3.010%",
+          "weight_value": 3.01,
+          "rank": 8
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "shares": 154000.0,
+          "weight": "2.950%",
+          "weight_value": 2.95,
+          "rank": 9
+        },
+        {
+          "code": "3044",
+          "name": "健鼎",
+          "shares": 1879000.0,
+          "weight": "2.940%",
+          "weight_value": 2.94,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
