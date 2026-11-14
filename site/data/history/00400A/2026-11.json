@@ -1125,6 +1125,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-11-14",
+      "holdings_count": 50,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 1193000.0,
+          "weight": "8.990%",
+          "weight_value": 8.99,
+          "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 549000.0,
+          "weight": "7.260%",
+          "weight_value": 7.26,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 428000.0,
+          "weight": "5.790%",
+          "weight_value": 5.79,
+          "rank": 3
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 532000.0,
+          "weight": "5.190%",
+          "weight_value": 5.19,
+          "rank": 4
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 164000.0,
+          "weight": "4.150%",
+          "weight_value": 4.15,
+          "rank": 5
+        },
+        {
+          "code": "3044",
+          "name": "健鼎",
+          "shares": 2399000.0,
+          "weight": "4.100%",
+          "weight_value": 4.1,
+          "rank": 6
+        },
+        {
+          "code": "3443",
+          "name": "創意",
+          "shares": 136000.0,
+          "weight": "3.760%",
+          "weight_value": 3.76,
+          "rank": 7
+        },
+        {
+          "code": "1303",
+          "name": "南亞",
+          "shares": 3667000.0,
+          "weight": "3.580%",
+          "weight_value": 3.58,
+          "rank": 8
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "shares": 203000.0,
+          "weight": "3.480%",
+          "weight_value": 3.48,
+          "rank": 9
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 208000.0,
+          "weight": "3.120%",
+          "weight_value": 3.12,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
