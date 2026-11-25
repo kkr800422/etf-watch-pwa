@@ -2071,6 +2071,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-11-25",
+      "holdings_count": 48,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 1641000.0,
+          "weight": "12.670%",
+          "weight_value": 12.67,
+          "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 567000.0,
+          "weight": "7.950%",
+          "weight_value": 7.95,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 428000.0,
+          "weight": "5.030%",
+          "weight_value": 5.03,
+          "rank": 3
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 532000.0,
+          "weight": "4.790%",
+          "weight_value": 4.79,
+          "rank": 4
+        },
+        {
+          "code": "3044",
+          "name": "健鼎",
+          "shares": 2489000.0,
+          "weight": "4.190%",
+          "weight_value": 4.19,
+          "rank": 5
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 164000.0,
+          "weight": "3.520%",
+          "weight_value": 3.52,
+          "rank": 6
+        },
+        {
+          "code": "3661",
+          "name": "世芯-KY",
+          "shares": 236000.0,
+          "weight": "3.200%",
+          "weight_value": 3.2,
+          "rank": 7
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 208000.0,
+          "weight": "3.010%",
+          "weight_value": 3.01,
+          "rank": 8
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "shares": 205000.0,
+          "weight": "2.880%",
+          "weight_value": 2.88,
+          "rank": 9
+        },
+        {
+          "code": "5274",
+          "name": "信驊",
+          "shares": 76400.0,
+          "weight": "2.420%",
+          "weight_value": 2.42,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
