@@ -2243,6 +2243,92 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "snapshot_date": "2026-11-27",
+      "holdings_count": 50,
+      "top_holdings": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "shares": 1641000.0,
+          "weight": "12.150%",
+          "weight_value": 12.15,
+          "rank": 1
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "shares": 567000.0,
+          "weight": "7.250%",
+          "weight_value": 7.25,
+          "rank": 2
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "shares": 467000.0,
+          "weight": "5.900%",
+          "weight_value": 5.9,
+          "rank": 3
+        },
+        {
+          "code": "3017",
+          "name": "奇鋐",
+          "shares": 532000.0,
+          "weight": "5.130%",
+          "weight_value": 5.13,
+          "rank": 4
+        },
+        {
+          "code": "2059",
+          "name": "川湖",
+          "shares": 184000.0,
+          "weight": "4.550%",
+          "weight_value": 4.55,
+          "rank": 5
+        },
+        {
+          "code": "3044",
+          "name": "健鼎",
+          "shares": 2489000.0,
+          "weight": "4.270%",
+          "weight_value": 4.27,
+          "rank": 6
+        },
+        {
+          "code": "3653",
+          "name": "健策",
+          "shares": 205000.0,
+          "weight": "3.250%",
+          "weight_value": 3.25,
+          "rank": 7
+        },
+        {
+          "code": "3661",
+          "name": "世芯-KY",
+          "shares": 236000.0,
+          "weight": "3.040%",
+          "weight_value": 3.04,
+          "rank": 8
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "shares": 208000.0,
+          "weight": "2.960%",
+          "weight_value": 2.96,
+          "rank": 9
+        },
+        {
+          "code": "3037",
+          "name": "欣興",
+          "shares": 1284000.0,
+          "weight": "2.850%",
+          "weight_value": 2.85,
+          "rank": 10
+        }
+      ]
     }
   ]
 }
